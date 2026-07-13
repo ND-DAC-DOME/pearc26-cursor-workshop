@@ -111,3 +111,29 @@ Example prompts (attach the CSV only if needed; prefer MCP for metadata):
 > Using the station-metadata MCP, call `get_station` for the station_id with the impossible wind value. What hardware and software is it running?
 
 > Using the station-metadata MCP, call `get_firmware` for that station’s firmware_id. How is wind speed stored, and could that explain a reading of -127?
+
+### Fix the wind map
+
+Once you understand the bad reading, harden [`scripts/plot_wind_map.py`](scripts/plot_wind_map.py) so one corrupted station cannot distort the CONUS plot.
+
+**1. Plan the fix**
+
+Switch to **Plan** mode and ask Cursor to propose an approach — for example:
+
+> `@scripts/plot_wind_map.py` We found a physically impossible negative wind speed caused by legacy signed int8 overflow at one station. Plan a fix in this plotting script so invalid wind values are handled safely (without silently inventing weather). Keep valid stations plotting as before.
+
+Review the plan before coding (what counts as invalid, whether to drop vs. flag, logging/messaging, etc.).
+
+**2. Implement the fix**
+
+Switch to **Agent** mode and have Cursor implement the agreed plan in `scripts/plot_wind_map.py`.
+
+**3. Re-run the map**
+
+Regenerate the storm-time map and confirm it no longer blows up on the bad value:
+
+```bash
+python scripts/plot_wind_map.py --timestamp 2025-06-13T22:00:00Z
+```
+
+Compare `output/wind_map.png` to your earlier plot. The Oklahoma storm cell should still appear; the impossible barb should not dominate the map.
