@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+cartopy>=0.22
+certifi>=2024.0.0
