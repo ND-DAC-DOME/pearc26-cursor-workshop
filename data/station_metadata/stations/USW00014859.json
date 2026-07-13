@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00014859",
+  "name": "GRAND MARAIS 2 E",
+  "state": "MI",
+  "latitude": 46.6667,
+  "longitude": -85.95,
+  "elevation_m": 190.2,
+  "network": "ASOS",
+  "commissioned": "2013-03-05",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-02",
+    "firmware_cutover_scheduled": false
+  }
+}

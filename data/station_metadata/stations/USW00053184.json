@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053184",
+  "name": "MEADVIEW 7 N",
+  "state": "AZ",
+  "latitude": 36.0936,
+  "longitude": -114.045,
+  "elevation_m": 895.5,
+  "network": "ASOS",
+  "commissioned": "2018-10-27",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-22",
+    "firmware_cutover_scheduled": false
+  }
+}

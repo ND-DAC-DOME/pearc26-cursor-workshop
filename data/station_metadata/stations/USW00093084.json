@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093084",
+  "name": "SAFFORD MUNI AP",
+  "state": "AZ",
+  "latitude": 32.8567,
+  "longitude": -109.6361,
+  "elevation_m": 967.7,
+  "network": "ASOS",
+  "commissioned": "2007-08-03",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-17",
+    "firmware_cutover_scheduled": false
+  }
+}

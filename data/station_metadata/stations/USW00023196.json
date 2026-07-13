@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00023196",
+  "name": "CHULA VISTA BROWN FLD NAAS",
+  "state": "CA",
+  "latitude": 32.5833,
+  "longitude": -116.9833,
+  "elevation_m": 159.4,
+  "network": "ASOS",
+  "commissioned": "2020-07-04",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-15",
+    "firmware_cutover_scheduled": false
+  }
+}

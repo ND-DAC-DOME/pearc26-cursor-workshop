@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053160",
+  "name": "CAMP VERDE 3 N",
+  "state": "AZ",
+  "latitude": 34.6136,
+  "longitude": -111.8431,
+  "elevation_m": 1046.7,
+  "network": "ASOS",
+  "commissioned": "2010-05-27",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-01",
+    "firmware_cutover_scheduled": false
+  }
+}

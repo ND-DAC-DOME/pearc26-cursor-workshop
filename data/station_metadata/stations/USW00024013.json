@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024013",
+  "name": "MINOT INTL AP",
+  "state": "ND",
+  "latitude": 48.2519,
+  "longitude": -101.2689,
+  "elevation_m": 505.1,
+  "network": "ASOS",
+  "commissioned": "2017-02-25",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-09",
+    "firmware_cutover_scheduled": false
+  }
+}

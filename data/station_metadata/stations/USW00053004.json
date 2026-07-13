@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053004",
+  "name": "BLUFF 32 NW",
+  "state": "UT",
+  "latitude": 37.6011,
+  "longitude": -109.9886,
+  "elevation_m": 1959.3,
+  "network": "ASOS",
+  "commissioned": "2021-06-17",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-25",
+    "firmware_cutover_scheduled": false
+  }
+}

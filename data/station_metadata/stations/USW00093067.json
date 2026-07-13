@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093067",
+  "name": "DENVER CENTENNIAL AP",
+  "state": "CO",
+  "latitude": 39.56,
+  "longitude": -104.8483,
+  "elevation_m": 1789.2,
+  "network": "ASOS",
+  "commissioned": "2019-12-03",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-02",
+    "firmware_cutover_scheduled": false
+  }
+}

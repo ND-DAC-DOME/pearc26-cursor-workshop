@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "station-metadata": {
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": [
+        "${workspaceFolder}/scripts/station_metadata_mcp.py"
+      ]
+    }
+  }
+}

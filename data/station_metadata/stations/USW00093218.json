@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093218",
+  "name": "JOLON FT HUNTER LIGGETT",
+  "state": "CA",
+  "latitude": 36.0,
+  "longitude": -121.2333,
+  "elevation_m": 317.0,
+  "network": "ASOS",
+  "commissioned": "2015-04-23",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-22",
+    "firmware_cutover_scheduled": false
+  }
+}

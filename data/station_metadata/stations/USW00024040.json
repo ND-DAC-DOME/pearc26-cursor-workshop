@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024040",
+  "name": "CUSTER",
+  "state": "MT",
+  "latitude": 46.1333,
+  "longitude": -107.5333,
+  "elevation_m": 836.1,
+  "network": "ASOS",
+  "commissioned": "2006-12-07",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-19",
+    "firmware_cutover_scheduled": false
+  }
+}

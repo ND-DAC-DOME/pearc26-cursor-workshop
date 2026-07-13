@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00012844",
+  "name": "W PALM BEACH INTL AP",
+  "state": "FL",
+  "latitude": 26.685,
+  "longitude": -80.0992,
+  "elevation_m": 3.7,
+  "network": "ASOS",
+  "commissioned": "2019-05-27",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-24",
+    "firmware_cutover_scheduled": false
+  }
+}

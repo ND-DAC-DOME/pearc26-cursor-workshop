@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00023166",
+  "name": "FLAGSTAFF WB CITY",
+  "state": "AZ",
+  "latitude": 35.2,
+  "longitude": -111.6667,
+  "elevation_m": 2110.1,
+  "network": "ASOS",
+  "commissioned": "2007-02-21",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-19",
+    "firmware_cutover_scheduled": false
+  }
+}

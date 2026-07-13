@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00092809",
+  "name": "HOLLYWOOD N PERRY AP",
+  "state": "FL",
+  "latitude": 25.9994,
+  "longitude": -80.2411,
+  "elevation_m": 1.8,
+  "network": "ASOS",
+  "commissioned": "2016-09-16",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-15",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,4511 @@
+{
+  "station_count": 500,
+  "firmware_ids": [
+    "asos-classic-c-5.1",
+    "asos-ltu-f77-3.2",
+    "asos-next-py-2.4",
+    "awos-c-cpp-1.8"
+  ],
+  "stations": [
+    {
+      "station_id": "USW00093826",
+      "name": "BARIN FLD NAAS",
+      "state": "AL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093826.json"
+    },
+    {
+      "station_id": "USW00003850",
+      "name": "CAIRNS FLD FT RUCKER",
+      "state": "AL",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00003850.json"
+    },
+    {
+      "station_id": "USW00063891",
+      "name": "CLANTON 2 NE",
+      "state": "AL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063891.json"
+    },
+    {
+      "station_id": "USW00013885",
+      "name": "EVERGREEN FAA AP",
+      "state": "AL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013885.json"
+    },
+    {
+      "station_id": "USW00063870",
+      "name": "FLORALA MUNI AP",
+      "state": "AL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00063870.json"
+    },
+    {
+      "station_id": "USW00063892",
+      "name": "GAINESVILLE 2 NE",
+      "state": "AL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063892.json"
+    },
+    {
+      "station_id": "USW00013821",
+      "name": "MAXWELL FLD",
+      "state": "AL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013821.json"
+    },
+    {
+      "station_id": "USW00073801",
+      "name": "NORTHPORT 2 S",
+      "state": "AL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00073801.json"
+    },
+    {
+      "station_id": "USW00063895",
+      "name": "RUSSELLVILLE 4 SSE",
+      "state": "AL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00063895.json"
+    },
+    {
+      "station_id": "USW00003878",
+      "name": "TROY MUNI AP",
+      "state": "AL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003878.json"
+    },
+    {
+      "station_id": "USW00013814",
+      "name": "BLYTHEVILLE AFB",
+      "state": "AR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013814.json"
+    },
+    {
+      "station_id": "USW00000133",
+      "name": "CLINTON MUNI AP",
+      "state": "AR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00000133.json"
+    },
+    {
+      "station_id": "USW00093992",
+      "name": "EL DORADO GOODWIN FLD",
+      "state": "AR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093992.json"
+    },
+    {
+      "station_id": "USW00013964",
+      "name": "FT SMITH RGNL AP",
+      "state": "AR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013964.json"
+    },
+    {
+      "station_id": "USW00003952",
+      "name": "LITTLE ROCK",
+      "state": "AR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003952.json"
+    },
+    {
+      "station_id": "USW00013963",
+      "name": "LITTLE ROCK AP ADAMS FLD",
+      "state": "AR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013963.json"
+    },
+    {
+      "station_id": "USW00053921",
+      "name": "MT IDA",
+      "state": "AR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053921.json"
+    },
+    {
+      "station_id": "USW00013925",
+      "name": "STUTTGART MUNI AP",
+      "state": "AR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013925.json"
+    },
+    {
+      "station_id": "USW00013977",
+      "name": "TEXARKANA WEBB FLD",
+      "state": "AR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013977.json"
+    },
+    {
+      "station_id": "USW00053006",
+      "name": "AMADO 23 W",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053006.json"
+    },
+    {
+      "station_id": "USW00053160",
+      "name": "CAMP VERDE 3 N",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053160.json"
+    },
+    {
+      "station_id": "USW00023109",
+      "name": "DAVIS MONTHAN AFB",
+      "state": "AZ",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00023109.json"
+    },
+    {
+      "station_id": "USW00093026",
+      "name": "DOUGLAS (BISBEE) INTL AP",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093026.json"
+    },
+    {
+      "station_id": "USW00053132",
+      "name": "ELGIN 5 S",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053132.json"
+    },
+    {
+      "station_id": "USW00023166",
+      "name": "FLAGSTAFF WB CITY",
+      "state": "AZ",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00023166.json"
+    },
+    {
+      "station_id": "USW00053146",
+      "name": "FT HUACHUCA PIONEER AIRFIELD",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053146.json"
+    },
+    {
+      "station_id": "USW00003195",
+      "name": "GRAND CANYON NP AP",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003195.json"
+    },
+    {
+      "station_id": "USW00003077",
+      "name": "HOLBROOK 17 ESE",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003077.json"
+    },
+    {
+      "station_id": "USW00093167",
+      "name": "KINGMAN AP",
+      "state": "AZ",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093167.json"
+    },
+    {
+      "station_id": "USW00053184",
+      "name": "MEADVIEW 7 N",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053184.json"
+    },
+    {
+      "station_id": "USW00003196",
+      "name": "NOGALES INTL AP",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003196.json"
+    },
+    {
+      "station_id": "USW00053164",
+      "name": "PAGE 9 WSW",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053164.json"
+    },
+    {
+      "station_id": "USW00023111",
+      "name": "PHOENIX LUKE AFB",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023111.json"
+    },
+    {
+      "station_id": "USW00053181",
+      "name": "SAFFORD 5 NNE",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053181.json"
+    },
+    {
+      "station_id": "USW00093084",
+      "name": "SAFFORD MUNI AP",
+      "state": "AZ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093084.json"
+    },
+    {
+      "station_id": "USW00093145",
+      "name": "YUMA WB CITY",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093145.json"
+    },
+    {
+      "station_id": "USW00023195",
+      "name": "YUMA WSO AP",
+      "state": "AZ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023195.json"
+    },
+    {
+      "station_id": "USW00023239",
+      "name": "ALAMEDA NAS",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023239.json"
+    },
+    {
+      "station_id": "USW00023161",
+      "name": "BARSTOW-DAGGETT AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023161.json"
+    },
+    {
+      "station_id": "USW00093216",
+      "name": "BEALE AFB",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093216.json"
+    },
+    {
+      "station_id": "USW00023225",
+      "name": "BLUE CANYON NYACK AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023225.json"
+    },
+    {
+      "station_id": "USW00003154",
+      "name": "CAMP PENDLETON MCAS",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003154.json"
+    },
+    {
+      "station_id": "USW00093104",
+      "name": "CHINA LAKE NAF",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093104.json"
+    },
+    {
+      "station_id": "USW00023196",
+      "name": "CHULA VISTA BROWN FLD NAAS",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023196.json"
+    },
+    {
+      "station_id": "USW00024286",
+      "name": "CRESCENT CITY MCNAMARA AP",
+      "state": "CA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024286.json"
+    },
+    {
+      "station_id": "USW00023114",
+      "name": "EDWARDS AFB",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023114.json"
+    },
+    {
+      "station_id": "USW00093193",
+      "name": "FRESNO YOSEMITE INTL",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093193.json"
+    },
+    {
+      "station_id": "USW00093218",
+      "name": "JOLON FT HUNTER LIGGETT",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093218.json"
+    },
+    {
+      "station_id": "USW00023119",
+      "name": "MARCH AFB",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023119.json"
+    },
+    {
+      "station_id": "USW00023258",
+      "name": "MODESTO AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023258.json"
+    },
+    {
+      "station_id": "USW00093108",
+      "name": "MOJAVE MCAS",
+      "state": "CA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093108.json"
+    },
+    {
+      "station_id": "USW00024215",
+      "name": "MT SHASTA",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024215.json"
+    },
+    {
+      "station_id": "USW00093112",
+      "name": "N IS NAS",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093112.json"
+    },
+    {
+      "station_id": "USW00023180",
+      "name": "NEWHALL AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023180.json"
+    },
+    {
+      "station_id": "USW00093210",
+      "name": "OROVILLE MUNI AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093210.json"
+    },
+    {
+      "station_id": "USW00093110",
+      "name": "OXNARD VENTURA CO AP",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093110.json"
+    },
+    {
+      "station_id": "USW00053120",
+      "name": "RAMONA AP",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053120.json"
+    },
+    {
+      "station_id": "USW00004222",
+      "name": "REDDING 12 WNW",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004222.json"
+    },
+    {
+      "station_id": "USW00093230",
+      "name": "S LAKE TAHOE AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093230.json"
+    },
+    {
+      "station_id": "USW00023208",
+      "name": "SACRAMENTO MCCLELLAN AFB",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023208.json"
+    },
+    {
+      "station_id": "USW00023188",
+      "name": "SAN DIEGO INTL AP",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023188.json"
+    },
+    {
+      "station_id": "USW00093226",
+      "name": "SAN SIMEON PT PIEDRAS BLANCAS",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093226.json"
+    },
+    {
+      "station_id": "USW00093124",
+      "name": "SANTA BARBARA MCAS",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093124.json"
+    },
+    {
+      "station_id": "USW00023273",
+      "name": "SANTA MARIA PUBLIC AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023273.json"
+    },
+    {
+      "station_id": "USW00003122",
+      "name": "TORRANCE AP",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003122.json"
+    },
+    {
+      "station_id": "USW00023275",
+      "name": "UKIAH MUNI AP",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023275.json"
+    },
+    {
+      "station_id": "USW00093214",
+      "name": "VANDENBERG AFB",
+      "state": "CA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093214.json"
+    },
+    {
+      "station_id": "USW00093215",
+      "name": "VANDENBERG AFB",
+      "state": "CA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093215.json"
+    },
+    {
+      "station_id": "USW00053150",
+      "name": "YOSEMITE VILLAGE 12 W",
+      "state": "CA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053150.json"
+    },
+    {
+      "station_id": "USW00024015",
+      "name": "AKRON WASHINGTON CO AP",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024015.json"
+    },
+    {
+      "station_id": "USW00053005",
+      "name": "BUENA VISTA 2 SSE",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053005.json"
+    },
+    {
+      "station_id": "USW00003026",
+      "name": "BURLINGTON CARSON AP",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003026.json"
+    },
+    {
+      "station_id": "USW00053007",
+      "name": "COLORADO SPRINGS 23 NW",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053007.json"
+    },
+    {
+      "station_id": "USW00093067",
+      "name": "DENVER CENTENNIAL AP",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093067.json"
+    },
+    {
+      "station_id": "USW00093002",
+      "name": "DENVER WSO CITY",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093002.json"
+    },
+    {
+      "station_id": "USW00003078",
+      "name": "EADS 16 ENE",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003078.json"
+    },
+    {
+      "station_id": "USW00094035",
+      "name": "FT COLLINS LOVELAND AP",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094035.json"
+    },
+    {
+      "station_id": "USW00003093",
+      "name": "GENOA 35 N",
+      "state": "CO",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00003093.json"
+    },
+    {
+      "station_id": "USW00003063",
+      "name": "LA JUNTA 17 WSW",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003063.json"
+    },
+    {
+      "station_id": "USW00093009",
+      "name": "LEADVILLE LAKE CO AP",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093009.json"
+    },
+    {
+      "station_id": "USW00094050",
+      "name": "MEEKER AP",
+      "state": "CO",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094050.json"
+    },
+    {
+      "station_id": "USW00003060",
+      "name": "MONTROSE 11 ENE",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003060.json"
+    },
+    {
+      "station_id": "USW00023068",
+      "name": "PUEBLO",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023068.json"
+    },
+    {
+      "station_id": "USW00003096",
+      "name": "RIFLE 23 NW",
+      "state": "CO",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00003096.json"
+    },
+    {
+      "station_id": "USW00003089",
+      "name": "ROCKY FORD 1 ESE",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003089.json"
+    },
+    {
+      "station_id": "USW00003079",
+      "name": "SAGUACHE 2 WNW",
+      "state": "CO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003079.json"
+    },
+    {
+      "station_id": "USW00003086",
+      "name": "SPRINGFIELD 6 WSW",
+      "state": "CO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003086.json"
+    },
+    {
+      "station_id": "USW00054734",
+      "name": "DANBURY MUNI AP",
+      "state": "CT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00054734.json"
+    },
+    {
+      "station_id": "USW00014752",
+      "name": "HARTFORD BRAINARD FLD",
+      "state": "CT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014752.json"
+    },
+    {
+      "station_id": "USW00093725",
+      "name": "WASHINGTON",
+      "state": "DC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093725.json"
+    },
+    {
+      "station_id": "USW00013781",
+      "name": "WILMINGTON NEW CASTLE CO AP",
+      "state": "DE",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013781.json"
+    },
+    {
+      "station_id": "USW00012832",
+      "name": "APALACHICOLA AP",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012832.json"
+    },
+    {
+      "station_id": "USW00012867",
+      "name": "COCOA BEACH PATRICK AFB",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012867.json"
+    },
+    {
+      "station_id": "USW00012849",
+      "name": "FT LAUDERDALE INTL AP",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012849.json"
+    },
+    {
+      "station_id": "USW00012835",
+      "name": "FT MYERS PAGE FLD AP",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012835.json"
+    },
+    {
+      "station_id": "USW00012895",
+      "name": "FT PIERCE ST LUCIE CO INTL AP",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012895.json"
+    },
+    {
+      "station_id": "USW00092809",
+      "name": "HOLLYWOOD N PERRY AP",
+      "state": "FL",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00092809.json"
+    },
+    {
+      "station_id": "USW00053860",
+      "name": "JACKSONVILLE CRAIG MUNI AP",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053860.json"
+    },
+    {
+      "station_id": "USW00093837",
+      "name": "JACKSONVILLE NAS",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093837.json"
+    },
+    {
+      "station_id": "USW00093852",
+      "name": "JACKSONVILLE WB CITY",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093852.json"
+    },
+    {
+      "station_id": "USW00063890",
+      "name": "JACKSONVILLE WHITEHOUSE NAVAL",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063890.json"
+    },
+    {
+      "station_id": "USW00012883",
+      "name": "LAKELAND LINDER RGNL AP",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012883.json"
+    },
+    {
+      "station_id": "USW00012810",
+      "name": "MACDILL AFB",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012810.json"
+    },
+    {
+      "station_id": "USW00012838",
+      "name": "MELBOURNE INTL AP",
+      "state": "FL",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00012838.json"
+    },
+    {
+      "station_id": "USW00012851",
+      "name": "MELBOURNE NAS",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012851.json"
+    },
+    {
+      "station_id": "USW00092811",
+      "name": "MIAMI BEACH",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00092811.json"
+    },
+    {
+      "station_id": "USW00013899",
+      "name": "PENSACOLA RGNL AP",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013899.json"
+    },
+    {
+      "station_id": "USW00093859",
+      "name": "PENSACOLA WB CITY",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093859.json"
+    },
+    {
+      "station_id": "USW00053862",
+      "name": "PERRY FOLEY AP",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053862.json"
+    },
+    {
+      "station_id": "USW00012889",
+      "name": "PINECASTLE NF",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012889.json"
+    },
+    {
+      "station_id": "USW00012812",
+      "name": "PUNTA GORDA CHARLOTTE CO AP",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012812.json"
+    },
+    {
+      "station_id": "USW00012853",
+      "name": "RICHMOND NAS",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012853.json"
+    },
+    {
+      "station_id": "USW00012871",
+      "name": "SARASOTA BRADENTON AP",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012871.json"
+    },
+    {
+      "station_id": "USW00092806",
+      "name": "ST PETERSBURG ALBERT WHITTED A",
+      "state": "FL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00092806.json"
+    },
+    {
+      "station_id": "USW00012873",
+      "name": "ST PETERSBURG CLEARWATER INTL",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012873.json"
+    },
+    {
+      "station_id": "USW00012844",
+      "name": "W PALM BEACH INTL AP",
+      "state": "FL",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00012844.json"
+    },
+    {
+      "station_id": "USW00053847",
+      "name": "WHITING FLD NAS S",
+      "state": "FL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053847.json"
+    },
+    {
+      "station_id": "USW00013869",
+      "name": "ALBANY SW GEORGIA RGNL AP",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013869.json"
+    },
+    {
+      "station_id": "USW00063856",
+      "name": "BRUNSWICK 23 S",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063856.json"
+    },
+    {
+      "station_id": "USW00053873",
+      "name": "CARTERSVILLE AP",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053873.json"
+    },
+    {
+      "station_id": "USW00053838",
+      "name": "GAINESVILLE LEE GILMER MEM AP",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053838.json"
+    },
+    {
+      "station_id": "USW00063813",
+      "name": "MARIETTA COBB CO AP",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063813.json"
+    },
+    {
+      "station_id": "USW00003822",
+      "name": "SAVANNAH INTL AP",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003822.json"
+    },
+    {
+      "station_id": "USW00013861",
+      "name": "WAYCROSS WSMO",
+      "state": "GA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013861.json"
+    },
+    {
+      "station_id": "USW00094989",
+      "name": "AMES MUNI AP",
+      "state": "IA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094989.json"
+    },
+    {
+      "station_id": "USW00014930",
+      "name": "ATLANTIC CAA AP",
+      "state": "IA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014930.json"
+    },
+    {
+      "station_id": "USW00054902",
+      "name": "DES MOINES 17 E",
+      "state": "IA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00054902.json"
+    },
+    {
+      "station_id": "USW00094908",
+      "name": "DUBUQUE RGNL AP",
+      "state": "IA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094908.json"
+    },
+    {
+      "station_id": "USW00014934",
+      "name": "DUBUQUE RIVER",
+      "state": "IA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014934.json"
+    },
+    {
+      "station_id": "USW00094971",
+      "name": "ESTHERVILLE MUNI AP",
+      "state": "IA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094971.json"
+    },
+    {
+      "station_id": "USW00094988",
+      "name": "MARSHALLTOWN MUNI AP",
+      "state": "IA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094988.json"
+    },
+    {
+      "station_id": "USW00014950",
+      "name": "OTTUMWA IND AP",
+      "state": "IA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014950.json"
+    },
+    {
+      "station_id": "USW00014948",
+      "name": "OTTUMWA NAS",
+      "state": "IA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014948.json"
+    },
+    {
+      "station_id": "USW00014943",
+      "name": "SIOUX CITY AP",
+      "state": "IA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014943.json"
+    },
+    {
+      "station_id": "USW00024131",
+      "name": "BOISE AIR TERMINAL",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024131.json"
+    },
+    {
+      "station_id": "USW00024133",
+      "name": "BURLEY MUNI AP",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024133.json"
+    },
+    {
+      "station_id": "USW00004114",
+      "name": "CHALLIS AP",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004114.json"
+    },
+    {
+      "station_id": "USW00024136",
+      "name": "COEUR D ALENE AP",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024136.json"
+    },
+    {
+      "station_id": "USW00024140",
+      "name": "DUBOIS",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024140.json"
+    },
+    {
+      "station_id": "USW00094143",
+      "name": "IDAHO FALLS 46 W",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094143.json"
+    },
+    {
+      "station_id": "USW00004110",
+      "name": "JEROME CO AP",
+      "state": "ID",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004110.json"
+    },
+    {
+      "station_id": "USW00094182",
+      "name": "MCCALL AP",
+      "state": "ID",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094182.json"
+    },
+    {
+      "station_id": "USW00024106",
+      "name": "MTN HOME AFB",
+      "state": "ID",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024106.json"
+    },
+    {
+      "station_id": "USW00094150",
+      "name": "MULLAN PASS",
+      "state": "ID",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094150.json"
+    },
+    {
+      "station_id": "USW00004127",
+      "name": "MURPHY 10 W",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004127.json"
+    },
+    {
+      "station_id": "USW00094194",
+      "name": "REXBURG MADISON CO AP",
+      "state": "ID",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094194.json"
+    },
+    {
+      "station_id": "USW00054831",
+      "name": "BLOOMINGTON NORMAL AP",
+      "state": "IL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00054831.json"
+    },
+    {
+      "station_id": "USW00093810",
+      "name": "CARBONDALE STHRN ILLINOIS AP",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093810.json"
+    },
+    {
+      "station_id": "USW00004808",
+      "name": "CHICAGO AURORA MUNI AP",
+      "state": "IL",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00004808.json"
+    },
+    {
+      "station_id": "USW00014892",
+      "name": "CHICAGO UNIV",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014892.json"
+    },
+    {
+      "station_id": "USW00014880",
+      "name": "CHICAGO WAUKEGAN RGNL AP",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014880.json"
+    },
+    {
+      "station_id": "USW00014834",
+      "name": "JOLIET",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014834.json"
+    },
+    {
+      "station_id": "USW00014810",
+      "name": "PARK RIDGE",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014810.json"
+    },
+    {
+      "station_id": "USW00014806",
+      "name": "RANTOUL",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014806.json"
+    },
+    {
+      "station_id": "USW00054811",
+      "name": "SHABBONA 5 NNE",
+      "state": "IL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00054811.json"
+    },
+    {
+      "station_id": "USW00093822",
+      "name": "SPRINGFIELD ABRAHAM LINCOLN CA",
+      "state": "IL",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093822.json"
+    },
+    {
+      "station_id": "USW00003838",
+      "name": "VANDALIA FAA AP",
+      "state": "IL",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003838.json"
+    },
+    {
+      "station_id": "USW00003893",
+      "name": "BLOOMINGTON MONROE CO AP",
+      "state": "IN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003893.json"
+    },
+    {
+      "station_id": "USW00014805",
+      "name": "FT WAYNE BAER FLD",
+      "state": "IN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014805.json"
+    },
+    {
+      "station_id": "USW00014829",
+      "name": "GOSHEN MUNI AP",
+      "state": "IN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014829.json"
+    },
+    {
+      "station_id": "USW00053842",
+      "name": "INDIANAPOLIS EAGLE CREEK AP",
+      "state": "IN",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053842.json"
+    },
+    {
+      "station_id": "USW00014848",
+      "name": "S BEND AP",
+      "state": "IN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014848.json"
+    },
+    {
+      "station_id": "USW00004846",
+      "name": "VALPARAISO PORTER CO MUNI AP",
+      "state": "IN",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00004846.json"
+    },
+    {
+      "station_id": "USW00013980",
+      "name": "ANTHONY",
+      "state": "KS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013980.json"
+    },
+    {
+      "station_id": "USW00013985",
+      "name": "DODGE CITY",
+      "state": "KS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013985.json"
+    },
+    {
+      "station_id": "USW00013940",
+      "name": "GREAT BEND MUNI AP",
+      "state": "KS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013940.json"
+    },
+    {
+      "station_id": "USW00003067",
+      "name": "OAKLEY 19 SSW",
+      "state": "KS",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003067.json"
+    },
+    {
+      "station_id": "USW00003998",
+      "name": "PARSONS TRI CITY AP",
+      "state": "KS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003998.json"
+    },
+    {
+      "station_id": "USW00093997",
+      "name": "RUSSELL MUNI AP",
+      "state": "KS",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093997.json"
+    },
+    {
+      "station_id": "USW00003928",
+      "name": "WICHITA",
+      "state": "KS",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003928.json"
+    },
+    {
+      "station_id": "USW00063849",
+      "name": "BOWLING GREEN 21 NNE",
+      "state": "KY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00063849.json"
+    },
+    {
+      "station_id": "USW00093808",
+      "name": "BOWLING GREEN WARREN CO AP",
+      "state": "KY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093808.json"
+    },
+    {
+      "station_id": "USW00093814",
+      "name": "CINCINNATI/NORTHERN KENTUCKY I",
+      "state": "KY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093814.json"
+    },
+    {
+      "station_id": "USW00013806",
+      "name": "FT CAMPBELL AAF",
+      "state": "KY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013806.json"
+    },
+    {
+      "station_id": "USW00013807",
+      "name": "GODMAN AFBU FT KNOX",
+      "state": "KY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013807.json"
+    },
+    {
+      "station_id": "USW00053803",
+      "name": "OWENSBORO DAVIESS CO RGNL AP",
+      "state": "KY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053803.json"
+    },
+    {
+      "station_id": "USW00012884",
+      "name": "BOOTHVILLE ASOS",
+      "state": "LA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012884.json"
+    },
+    {
+      "station_id": "USW00012863",
+      "name": "BURRWOOD WB",
+      "state": "LA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012863.json"
+    },
+    {
+      "station_id": "USW00063903",
+      "name": "FT POLK - SELF STRIP",
+      "state": "LA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00063903.json"
+    },
+    {
+      "station_id": "USW00013941",
+      "name": "LAKE CHARLES CHENAULT",
+      "state": "LA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00013941.json"
+    },
+    {
+      "station_id": "USW00012916",
+      "name": "NEW ORLEANS AP",
+      "state": "LA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012916.json"
+    },
+    {
+      "station_id": "USW00012930",
+      "name": "NEW ORLEANS AUDUBON",
+      "state": "LA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00012930.json"
+    },
+    {
+      "station_id": "USW00053917",
+      "name": "NEW ORLEANS LAKEFRONT AP",
+      "state": "LA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053917.json"
+    },
+    {
+      "station_id": "USW00012968",
+      "name": "SALT PT",
+      "state": "LA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012968.json"
+    },
+    {
+      "station_id": "USW00013957",
+      "name": "SHREVEPORT",
+      "state": "LA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013957.json"
+    },
+    {
+      "station_id": "USW00014702",
+      "name": "BEDFORD HANSCOM FLD",
+      "state": "MA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014702.json"
+    },
+    {
+      "station_id": "USW00014753",
+      "name": "BLUE HILL LCD",
+      "state": "MA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014753.json"
+    },
+    {
+      "station_id": "USW00014704",
+      "name": "FALMOUTH OTIS AFB",
+      "state": "MA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014704.json"
+    },
+    {
+      "station_id": "USW00094720",
+      "name": "HYANNIS BARNSTABLE MUNI AP",
+      "state": "MA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094720.json"
+    },
+    {
+      "station_id": "USW00014658",
+      "name": "NANTUCKET SHOALS AFS",
+      "state": "MA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014658.json"
+    },
+    {
+      "station_id": "USW00094726",
+      "name": "NEW BEDFORD MUNI AP",
+      "state": "MA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094726.json"
+    },
+    {
+      "station_id": "USW00014763",
+      "name": "PITTSFIELD MUNI AP",
+      "state": "MA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014763.json"
+    },
+    {
+      "station_id": "USW00014790",
+      "name": "SOUTH WEYMOUTH NAS",
+      "state": "MA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014790.json"
+    },
+    {
+      "station_id": "USW00094724",
+      "name": "VINEYARD HAVEN MARTHAS VINEYAR",
+      "state": "MA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094724.json"
+    },
+    {
+      "station_id": "USW00013752",
+      "name": "ANNAPOLIS US NAVAL ACADEMY ASO",
+      "state": "MD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013752.json"
+    },
+    {
+      "station_id": "USW00013730",
+      "name": "FREDERICK WFMD",
+      "state": "MD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013730.json"
+    },
+    {
+      "station_id": "USW00093733",
+      "name": "FT MEADE TPTN AAF",
+      "state": "MD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093733.json"
+    },
+    {
+      "station_id": "USW00093706",
+      "name": "HAGERSTOWN RGNL AP",
+      "state": "MD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093706.json"
+    },
+    {
+      "station_id": "USW00093784",
+      "name": "MARYLAND SCI CTR",
+      "state": "MD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093784.json"
+    },
+    {
+      "station_id": "USW00013721",
+      "name": "PATUXENT RIVER NAS",
+      "state": "MD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013721.json"
+    },
+    {
+      "station_id": "USW00093720",
+      "name": "SALISBURY-WICOMICO RGNL AP",
+      "state": "MD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093720.json"
+    },
+    {
+      "station_id": "USW00014607",
+      "name": "CARIBOU WFO",
+      "state": "ME",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014607.json"
+    },
+    {
+      "station_id": "USW00094626",
+      "name": "GREENVILLE MAINE FORESTRY SVC",
+      "state": "ME",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094626.json"
+    },
+    {
+      "station_id": "USW00094645",
+      "name": "LIMESTONE 4 NNW",
+      "state": "ME",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094645.json"
+    },
+    {
+      "station_id": "USW00014623",
+      "name": "LIMESTONE LORING AFB",
+      "state": "ME",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014623.json"
+    },
+    {
+      "station_id": "USW00014610",
+      "name": "MILLINOCKET MUNI AP",
+      "state": "ME",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014610.json"
+    },
+    {
+      "station_id": "USW00094644",
+      "name": "OLD TOWN 2 W",
+      "state": "ME",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094644.json"
+    },
+    {
+      "station_id": "USW00014764",
+      "name": "PORTLAND JETPORT",
+      "state": "ME",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014764.json"
+    },
+    {
+      "station_id": "USW00014604",
+      "name": "PRESQUE ISLE AP",
+      "state": "ME",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014604.json"
+    },
+    {
+      "station_id": "USW00094623",
+      "name": "WISCASSET AP",
+      "state": "ME",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094623.json"
+    },
+    {
+      "station_id": "USW00094849",
+      "name": "ALPENA CO RGNL AP",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094849.json"
+    },
+    {
+      "station_id": "USW00094889",
+      "name": "ANN ARBOR MUNI AP",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094889.json"
+    },
+    {
+      "station_id": "USW00094871",
+      "name": "BENTON HARBOR",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094871.json"
+    },
+    {
+      "station_id": "USW00054810",
+      "name": "CHATHAM 1 SE",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00054810.json"
+    },
+    {
+      "station_id": "USW00094899",
+      "name": "COPPER HARBOR",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094899.json"
+    },
+    {
+      "station_id": "USW00014824",
+      "name": "ESCANABA",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014824.json"
+    },
+    {
+      "station_id": "USW00094853",
+      "name": "ESCANABA DELTA CO AP",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094853.json"
+    },
+    {
+      "station_id": "USW00014859",
+      "name": "GRAND MARAIS 2 E",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014859.json"
+    },
+    {
+      "station_id": "USW00014858",
+      "name": "HANCOCK HOUGHTON CO AP",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014858.json"
+    },
+    {
+      "station_id": "USW00094824",
+      "name": "KINROSS AFB",
+      "state": "MI",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094824.json"
+    },
+    {
+      "station_id": "USW00004856",
+      "name": "MANISTIQUE",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004856.json"
+    },
+    {
+      "station_id": "USW00014838",
+      "name": "MARQUETTE",
+      "state": "MI",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014838.json"
+    },
+    {
+      "station_id": "USW00014841",
+      "name": "PELLSTON RGNL AP",
+      "state": "MI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014841.json"
+    },
+    {
+      "station_id": "USW00094817",
+      "name": "PONTIAC OAKLAND CO INTL AP",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094817.json"
+    },
+    {
+      "station_id": "USW00094898",
+      "name": "PORT HOPE",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094898.json"
+    },
+    {
+      "station_id": "USW00014850",
+      "name": "TRAVERSE CY CHERRY CAPITAL AP",
+      "state": "MI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014850.json"
+    },
+    {
+      "station_id": "USW00004902",
+      "name": "AUSTIN MUNI AP",
+      "state": "MN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004902.json"
+    },
+    {
+      "station_id": "USW00094961",
+      "name": "BAUDETTE INTL AP",
+      "state": "MN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094961.json"
+    },
+    {
+      "station_id": "USW00094938",
+      "name": "BRAINERD CROW WING CO AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094938.json"
+    },
+    {
+      "station_id": "USW00014913",
+      "name": "DULUTH",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014913.json"
+    },
+    {
+      "station_id": "USW00094909",
+      "name": "DULUTH WILIAMSON JOH",
+      "state": "MN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094909.json"
+    },
+    {
+      "station_id": "USW00094948",
+      "name": "FAIRMONT MUNI AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094948.json"
+    },
+    {
+      "station_id": "USW00094931",
+      "name": "HIBBING CHISHOLM HIBBING AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094931.json"
+    },
+    {
+      "station_id": "USW00094963",
+      "name": "MINNEAPOLIS FLYING CLOUD AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094963.json"
+    },
+    {
+      "station_id": "USW00094967",
+      "name": "PARK RAPIDS MUNI AP",
+      "state": "MN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094967.json"
+    },
+    {
+      "station_id": "USW00004967",
+      "name": "RED WING RGNL AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004967.json"
+    },
+    {
+      "station_id": "USW00014992",
+      "name": "REDWOOD FALLS MUNI AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014992.json"
+    },
+    {
+      "station_id": "USW00014927",
+      "name": "ST PAUL DWTN AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014927.json"
+    },
+    {
+      "station_id": "USW00094927",
+      "name": "WORTHINGTON MUNI AP",
+      "state": "MN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094927.json"
+    },
+    {
+      "station_id": "USW00093972",
+      "name": "KANSAS CITY",
+      "state": "MO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093972.json"
+    },
+    {
+      "station_id": "USW00003994",
+      "name": "SEDALIA MEM AP",
+      "state": "MO",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00003994.json"
+    },
+    {
+      "station_id": "USW00013993",
+      "name": "ST JOSEPH ROSECRANS MEM AP",
+      "state": "MO",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00013993.json"
+    },
+    {
+      "station_id": "USW00093910",
+      "name": "ST LOUIS LAMBERT",
+      "state": "MO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093910.json"
+    },
+    {
+      "station_id": "USW00013994",
+      "name": "ST LOUIS LAMBERT INTL AP",
+      "state": "MO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013994.json"
+    },
+    {
+      "station_id": "USW00014945",
+      "name": "TARKIO",
+      "state": "MO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014945.json"
+    },
+    {
+      "station_id": "USW00013997",
+      "name": "VICHY ROLLA NATL AP",
+      "state": "MO",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013997.json"
+    },
+    {
+      "station_id": "USW00053901",
+      "name": "W PLAINS MUNI AP",
+      "state": "MO",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053901.json"
+    },
+    {
+      "station_id": "USW00013978",
+      "name": "GREENWOOD LEFLORE AP",
+      "state": "MS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013978.json"
+    },
+    {
+      "station_id": "USW00093874",
+      "name": "GULFPORT - BILOXI AP",
+      "state": "MS",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093874.json"
+    },
+    {
+      "station_id": "USW00023803",
+      "name": "HOLLY SPRINGS 4 N",
+      "state": "MS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023803.json"
+    },
+    {
+      "station_id": "USW00003961",
+      "name": "NATCHEZ ADAM CO AP",
+      "state": "MS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003961.json"
+    },
+    {
+      "station_id": "USW00063831",
+      "name": "NEWTON 5 ENE",
+      "state": "MS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063831.json"
+    },
+    {
+      "station_id": "USW00053858",
+      "name": "PASCAGOULA LOTT INTL AP",
+      "state": "MS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053858.json"
+    },
+    {
+      "station_id": "USW00093862",
+      "name": "TUPELO RGNL AP",
+      "state": "MS",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093862.json"
+    },
+    {
+      "station_id": "USW00013979",
+      "name": "VICKSBURG CAA AP",
+      "state": "MS",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013979.json"
+    },
+    {
+      "station_id": "USW00094055",
+      "name": "BAKER MUNI AP",
+      "state": "MT",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094055.json"
+    },
+    {
+      "station_id": "USW00024132",
+      "name": "BOZEMAN GALLATIN FLD AP",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024132.json"
+    },
+    {
+      "station_id": "USW00024135",
+      "name": "BUTTE BERT MOONEY AP",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024135.json"
+    },
+    {
+      "station_id": "USW00024040",
+      "name": "CUSTER",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024040.json"
+    },
+    {
+      "station_id": "USW00024138",
+      "name": "DILLON AP",
+      "state": "MT",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024138.json"
+    },
+    {
+      "station_id": "USW00024139",
+      "name": "DRUMMOND AVIATION",
+      "state": "MT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024139.json"
+    },
+    {
+      "station_id": "USW00094008",
+      "name": "GLASGOW",
+      "state": "MT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094008.json"
+    },
+    {
+      "station_id": "USW00094012",
+      "name": "HAVRE AP ASOS",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094012.json"
+    },
+    {
+      "station_id": "USW00024144",
+      "name": "HELENA AP ASOS",
+      "state": "MT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024144.json"
+    },
+    {
+      "station_id": "USW00094104",
+      "name": "HELENA WB CITY",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094104.json"
+    },
+    {
+      "station_id": "USW00024036",
+      "name": "LEWISTOWN AP",
+      "state": "MT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024036.json"
+    },
+    {
+      "station_id": "USW00024112",
+      "name": "MALMSTROM AFB",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024112.json"
+    },
+    {
+      "station_id": "USW00094010",
+      "name": "ST MARIE",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094010.json"
+    },
+    {
+      "station_id": "USW00094059",
+      "name": "WOLF POINT 34 NE",
+      "state": "MT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094059.json"
+    },
+    {
+      "station_id": "USW00094017",
+      "name": "WOLF PT INTL AP",
+      "state": "MT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094017.json"
+    },
+    {
+      "station_id": "USW00003812",
+      "name": "ASHEVILLE AP",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003812.json"
+    },
+    {
+      "station_id": "USW00013754",
+      "name": "CHERRY POINT MCAS",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013754.json"
+    },
+    {
+      "station_id": "USW00013761",
+      "name": "EDENTON NAAS",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013761.json"
+    },
+    {
+      "station_id": "USW00013713",
+      "name": "GOLDSBORO 4 SE",
+      "state": "NC",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013713.json"
+    },
+    {
+      "station_id": "USW00003810",
+      "name": "HICKORY FAA AP",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003810.json"
+    },
+    {
+      "station_id": "USW00093726",
+      "name": "KINSTON STALLINGS FLD",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093726.json"
+    },
+    {
+      "station_id": "USW00093719",
+      "name": "NEW BERN - ASOS",
+      "state": "NC",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093719.json"
+    },
+    {
+      "station_id": "USW00013714",
+      "name": "POPE AFB",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013714.json"
+    },
+    {
+      "station_id": "USW00093759",
+      "name": "ROCKY MT WILSON AP",
+      "state": "NC",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093759.json"
+    },
+    {
+      "station_id": "USW00093743",
+      "name": "SWANSBORO BOGUE FLD MCAF",
+      "state": "NC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093743.json"
+    },
+    {
+      "station_id": "USW00013774",
+      "name": "WEEKSVILLE NAF",
+      "state": "NC",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013774.json"
+    },
+    {
+      "station_id": "USW00014912",
+      "name": "DEVILS LAKE KDLR",
+      "state": "ND",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014912.json"
+    },
+    {
+      "station_id": "USW00024012",
+      "name": "DICKINSON THEODORE ROOSEVELT R",
+      "state": "ND",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024012.json"
+    },
+    {
+      "station_id": "USW00014914",
+      "name": "FARGO HECTOR INTL AP",
+      "state": "ND",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014914.json"
+    },
+    {
+      "station_id": "USW00094925",
+      "name": "GRAND FORKS AF",
+      "state": "ND",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094925.json"
+    },
+    {
+      "station_id": "USW00054937",
+      "name": "JAMESTOWN 38 WSW",
+      "state": "ND",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00054937.json"
+    },
+    {
+      "station_id": "USW00094011",
+      "name": "MINOT AFB",
+      "state": "ND",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094011.json"
+    },
+    {
+      "station_id": "USW00024013",
+      "name": "MINOT INTL AP",
+      "state": "ND",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024013.json"
+    },
+    {
+      "station_id": "USW00014924",
+      "name": "PEMBINA",
+      "state": "ND",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014924.json"
+    },
+    {
+      "station_id": "USW00014949",
+      "name": "BELLEVUE OFFUTT AFB",
+      "state": "NE",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014949.json"
+    },
+    {
+      "station_id": "USW00094946",
+      "name": "BROKEN BOW MUNI AP",
+      "state": "NE",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094946.json"
+    },
+    {
+      "station_id": "USW00014939",
+      "name": "LINCOLN AP",
+      "state": "NE",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014939.json"
+    },
+    {
+      "station_id": "USW00094040",
+      "name": "MCCOOK MUNI AP",
+      "state": "NE",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094040.json"
+    },
+    {
+      "station_id": "USW00014941",
+      "name": "NORFOLK KARL STEFAN MEM AP",
+      "state": "NE",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014941.json"
+    },
+    {
+      "station_id": "USW00094958",
+      "name": "ORD EVELYN SHARP FLD",
+      "state": "NE",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094958.json"
+    },
+    {
+      "station_id": "USW00024032",
+      "name": "VALENTINE MILLER FLD AP",
+      "state": "NE",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024032.json"
+    },
+    {
+      "station_id": "USW00094079",
+      "name": "WHITMAN 5 ENE",
+      "state": "NE",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094079.json"
+    },
+    {
+      "station_id": "USW00014989",
+      "name": "YORK",
+      "state": "NE",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014989.json"
+    },
+    {
+      "station_id": "USW00094765",
+      "name": "LEBANON MUNI AP",
+      "state": "NH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094765.json"
+    },
+    {
+      "station_id": "USW00014755",
+      "name": "MT WASHINGTON",
+      "state": "NH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014755.json"
+    },
+    {
+      "station_id": "USW00054791",
+      "name": "ROCHESTER SKYHAVEN AP",
+      "state": "NH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00054791.json"
+    },
+    {
+      "station_id": "USW00013724",
+      "name": "ATLANTIC CITY MARINA",
+      "state": "NJ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013724.json"
+    },
+    {
+      "station_id": "USW00013735",
+      "name": "MILLVILLE MUNI AP",
+      "state": "NJ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013735.json"
+    },
+    {
+      "station_id": "USW00094741",
+      "name": "TETERBORO AP",
+      "state": "NJ",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094741.json"
+    },
+    {
+      "station_id": "USW00013775",
+      "name": "WILDWOOD NAS",
+      "state": "NJ",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013775.json"
+    },
+    {
+      "station_id": "USW00003035",
+      "name": "ARTESIA MUNI AP",
+      "state": "NM",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00003035.json"
+    },
+    {
+      "station_id": "USW00003027",
+      "name": "CLINES CORNERS",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003027.json"
+    },
+    {
+      "station_id": "USW00023058",
+      "name": "COLUMBUS",
+      "state": "NM",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023058.json"
+    },
+    {
+      "station_id": "USW00003075",
+      "name": "DULCE 1 NW",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003075.json"
+    },
+    {
+      "station_id": "USW00023060",
+      "name": "EL MORRO CAA AP",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023060.json"
+    },
+    {
+      "station_id": "USW00093041",
+      "name": "LAS CRUCES MUNI AP",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093041.json"
+    },
+    {
+      "station_id": "USW00003095",
+      "name": "MILLS 6 WSW",
+      "state": "NM",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003095.json"
+    },
+    {
+      "station_id": "USW00003097",
+      "name": "MOUNTAINAIR 2 WSW",
+      "state": "NM",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003097.json"
+    },
+    {
+      "station_id": "USW00023045",
+      "name": "RODEO CAA AP",
+      "state": "NM",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023045.json"
+    },
+    {
+      "station_id": "USW00023009",
+      "name": "ROSWELL IND AIR PK",
+      "state": "NM",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023009.json"
+    },
+    {
+      "station_id": "USW00023049",
+      "name": "SANTA FE CO MUNI AP",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023049.json"
+    },
+    {
+      "station_id": "USW00093063",
+      "name": "SILVER CITY CO AP",
+      "state": "NM",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093063.json"
+    },
+    {
+      "station_id": "USW00003012",
+      "name": "TAOS MUNI AP",
+      "state": "NM",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003012.json"
+    },
+    {
+      "station_id": "USW00093045",
+      "name": "TRUTH OR CONSEQUENCES MUNI AP",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093045.json"
+    },
+    {
+      "station_id": "USW00053016",
+      "name": "VAUGHN 36 SSE",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053016.json"
+    },
+    {
+      "station_id": "USW00093044",
+      "name": "ZUNI",
+      "state": "NM",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093044.json"
+    },
+    {
+      "station_id": "USW00024119",
+      "name": "BATTLE MOUNTAIN 4SE",
+      "state": "NV",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024119.json"
+    },
+    {
+      "station_id": "USW00003109",
+      "name": "CAMP MERCURY",
+      "state": "NV",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003109.json"
+    },
+    {
+      "station_id": "USW00003160",
+      "name": "DESERT ROCK AP",
+      "state": "NV",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003160.json"
+    },
+    {
+      "station_id": "USW00024121",
+      "name": "ELKO RGNL AP",
+      "state": "NV",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024121.json"
+    },
+    {
+      "station_id": "USW00024172",
+      "name": "LOVELOCK DERBY FLD AP",
+      "state": "NV",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024172.json"
+    },
+    {
+      "station_id": "USW00023169",
+      "name": "MCCARRAN INTL AP",
+      "state": "NV",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023169.json"
+    },
+    {
+      "station_id": "USW00023185",
+      "name": "RENO AP",
+      "state": "NV",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023185.json"
+    },
+    {
+      "station_id": "USW00023153",
+      "name": "TONOPAH AP",
+      "state": "NV",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023153.json"
+    },
+    {
+      "station_id": "USW00053145",
+      "name": "TONOPAH TEST RNG #74 NELLIS AF",
+      "state": "NV",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053145.json"
+    },
+    {
+      "station_id": "USW00024128",
+      "name": "WINNEMUCCA AP",
+      "state": "NV",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024128.json"
+    },
+    {
+      "station_id": "USW00014797",
+      "name": "BEAR MTN WB",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014797.json"
+    },
+    {
+      "station_id": "USW00014750",
+      "name": "GLENS FALLS AP",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014750.json"
+    },
+    {
+      "station_id": "USW00014717",
+      "name": "GRIFFISS AFB",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014717.json"
+    },
+    {
+      "station_id": "USW00094725",
+      "name": "MASSENA INTL AP",
+      "state": "NY",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094725.json"
+    },
+    {
+      "station_id": "USW00004724",
+      "name": "NIAGARA FALLS INTL AP",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004724.json"
+    },
+    {
+      "station_id": "USW00054778",
+      "name": "PENN YAN AP",
+      "state": "NY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00054778.json"
+    },
+    {
+      "station_id": "USW00064776",
+      "name": "PLATTSBURGH INTL AP",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00064776.json"
+    },
+    {
+      "station_id": "USW00014757",
+      "name": "POUGHKEEPSIE AP",
+      "state": "NY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014757.json"
+    },
+    {
+      "station_id": "USW00014768",
+      "name": "ROCHESTER GTR INTL",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014768.json"
+    },
+    {
+      "station_id": "USW00094740",
+      "name": "SARANAC LK ADIRONDACK RGNL AP",
+      "state": "NY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094740.json"
+    },
+    {
+      "station_id": "USW00014774",
+      "name": "UTICA AP",
+      "state": "NY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014774.json"
+    },
+    {
+      "station_id": "USW00014813",
+      "name": "AKRON FULTON INTL AP",
+      "state": "OH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014813.json"
+    },
+    {
+      "station_id": "USW00093818",
+      "name": "CHESAPEAKE HUNTINGTON",
+      "state": "OH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093818.json"
+    },
+    {
+      "station_id": "USW00014820",
+      "name": "CLEVELAND",
+      "state": "OH",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014820.json"
+    },
+    {
+      "station_id": "USW00004804",
+      "name": "COLUMBUS OHIO STATE UNIV AP",
+      "state": "OH",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004804.json"
+    },
+    {
+      "station_id": "USW00053859",
+      "name": "DAYTON WRIGHT BROTHERS AP",
+      "state": "OH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053859.json"
+    },
+    {
+      "station_id": "USW00004858",
+      "name": "NEWARK HEATH AP",
+      "state": "OH",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004858.json"
+    },
+    {
+      "station_id": "USW00014843",
+      "name": "PERRY CAA AP",
+      "state": "OH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014843.json"
+    },
+    {
+      "station_id": "USW00063888",
+      "name": "SPRINGFIELD BECKLEY AP",
+      "state": "OH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00063888.json"
+    },
+    {
+      "station_id": "USW00004848",
+      "name": "TOLEDO METCALF FLD",
+      "state": "OH",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004848.json"
+    },
+    {
+      "station_id": "USW00054856",
+      "name": "WOOSTER 3 SSE",
+      "state": "OH",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00054856.json"
+    },
+    {
+      "station_id": "USW00003981",
+      "name": "ALTUS AFB",
+      "state": "OK",
+      "firmware_id": "asos-ltu-f77-3.2",
+      "software_name": "ASOS Legacy Telemetry Unit (LTU)",
+      "software_language": "FORTRAN 77",
+      "path": "stations/USW00003981.json"
+    },
+    {
+      "station_id": "USW00013903",
+      "name": "ARDMORE AFB",
+      "state": "OK",
+      "firmware_id": "asos-ltu-f77-3.2",
+      "software_name": "ASOS Legacy Telemetry Unit (LTU)",
+      "software_language": "FORTRAN 77",
+      "path": "stations/USW00013903.json"
+    },
+    {
+      "station_id": "USW00013965",
+      "name": "ARDMORE FAA AP",
+      "state": "OK",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013965.json"
+    },
+    {
+      "station_id": "USW00003959",
+      "name": "BARTLESVILLE MUNI AP",
+      "state": "OK",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003959.json"
+    },
+    {
+      "station_id": "USW00003932",
+      "name": "CLINTON-SHERMAN AP",
+      "state": "OK",
+      "firmware_id": "asos-ltu-f77-3.2",
+      "software_name": "ASOS Legacy Telemetry Unit (LTU)",
+      "software_language": "FORTRAN 77",
+      "path": "stations/USW00003932.json"
+    },
+    {
+      "station_id": "USW00013967",
+      "name": "OKLAHOMA CY WILL ROGERS WORLD",
+      "state": "OK",
+      "firmware_id": "asos-ltu-f77-3.2",
+      "software_name": "ASOS Legacy Telemetry Unit (LTU)",
+      "software_language": "FORTRAN 77",
+      "path": "stations/USW00013967.json"
+    },
+    {
+      "station_id": "USW00013969",
+      "name": "PONCA CITY MUNI AP",
+      "state": "OK",
+      "firmware_id": "asos-ltu-f77-3.2",
+      "software_name": "ASOS Legacy Telemetry Unit (LTU)",
+      "software_language": "FORTRAN 77",
+      "path": "stations/USW00013969.json"
+    },
+    {
+      "station_id": "USW00094281",
+      "name": "AURORA STATE AP",
+      "state": "OR",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094281.json"
+    },
+    {
+      "station_id": "USW00024199",
+      "name": "BAKER KBKR",
+      "state": "OR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024199.json"
+    },
+    {
+      "station_id": "USW00024134",
+      "name": "BURNS WSO CITY",
+      "state": "OR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024134.json"
+    },
+    {
+      "station_id": "USW00004125",
+      "name": "JOHN DAY 35 WNW",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004125.json"
+    },
+    {
+      "station_id": "USW00024249",
+      "name": "KLAMATH FALLS",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024249.json"
+    },
+    {
+      "station_id": "USW00024152",
+      "name": "MEACHAM",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024152.json"
+    },
+    {
+      "station_id": "USW00024285",
+      "name": "NEWPORT",
+      "state": "OR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024285.json"
+    },
+    {
+      "station_id": "USW00024162",
+      "name": "ONTARIO",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024162.json"
+    },
+    {
+      "station_id": "USW00024242",
+      "name": "PORTLAND TROUTDALE AP",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024242.json"
+    },
+    {
+      "station_id": "USW00094261",
+      "name": "PORTLAND-HILLSBORO AP",
+      "state": "OR",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094261.json"
+    },
+    {
+      "station_id": "USW00024235",
+      "name": "SEXTON SUMMIT",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024235.json"
+    },
+    {
+      "station_id": "USW00024236",
+      "name": "SISKIYOU SUMMIT",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024236.json"
+    },
+    {
+      "station_id": "USW00024254",
+      "name": "TILLAMOOK NAS",
+      "state": "OR",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024254.json"
+    },
+    {
+      "station_id": "USW00014736",
+      "name": "ALTOONA BLAIR CO AP",
+      "state": "PA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014736.json"
+    },
+    {
+      "station_id": "USW00004751",
+      "name": "BRADFORD RGNL AP",
+      "state": "PA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004751.json"
+    },
+    {
+      "station_id": "USW00014860",
+      "name": "ERIE INTL AP",
+      "state": "PA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014860.json"
+    },
+    {
+      "station_id": "USW00093762",
+      "name": "FOUNTAIN DALE SITE R HELIPAD",
+      "state": "PA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093762.json"
+    },
+    {
+      "station_id": "USW00014751",
+      "name": "HARRISBURG CAPITAL CITY AP",
+      "state": "PA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014751.json"
+    },
+    {
+      "station_id": "USW00014778",
+      "name": "WILLIAMSPORT RGNL AP",
+      "state": "PA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014778.json"
+    },
+    {
+      "station_id": "USW00014799",
+      "name": "BLOCK ISLAND",
+      "state": "RI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014799.json"
+    },
+    {
+      "station_id": "USW00014782",
+      "name": "CHARLESTOWN NAAS",
+      "state": "RI",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014782.json"
+    },
+    {
+      "station_id": "USW00014787",
+      "name": "NEWPORT STATE AP",
+      "state": "RI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014787.json"
+    },
+    {
+      "station_id": "USW00013880",
+      "name": "CHARLESTON INTL AP",
+      "state": "SC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013880.json"
+    },
+    {
+      "station_id": "USW00013782",
+      "name": "DWTN CHARLESTON",
+      "state": "SC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013782.json"
+    },
+    {
+      "station_id": "USW00003858",
+      "name": "EASTOVER MCENTIRE ANG",
+      "state": "SC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003858.json"
+    },
+    {
+      "station_id": "USW00013886",
+      "name": "GREENVILLE DWTN AP",
+      "state": "SC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013886.json"
+    },
+    {
+      "station_id": "USW00053874",
+      "name": "GREENWOOD CO AP",
+      "state": "SC",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053874.json"
+    },
+    {
+      "station_id": "USW00053871",
+      "name": "ROCK HILL YORK CO AP",
+      "state": "SC",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053871.json"
+    },
+    {
+      "station_id": "USW00014929",
+      "name": "ABERDEEN",
+      "state": "SD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00014929.json"
+    },
+    {
+      "station_id": "USW00094902",
+      "name": "BROOKINGS",
+      "state": "SD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094902.json"
+    },
+    {
+      "station_id": "USW00094037",
+      "name": "BUFFALO (ASOS)",
+      "state": "SD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094037.json"
+    },
+    {
+      "station_id": "USW00094081",
+      "name": "BUFFALO 13 ESE",
+      "state": "SD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094081.json"
+    },
+    {
+      "station_id": "USW00094032",
+      "name": "CUSTER CO AP",
+      "state": "SD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094032.json"
+    },
+    {
+      "station_id": "USW00024006",
+      "name": "ELLSWORTH AFB",
+      "state": "SD",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024006.json"
+    },
+    {
+      "station_id": "USW00094950",
+      "name": "MITCHELL AP",
+      "state": "SD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094950.json"
+    },
+    {
+      "station_id": "USW00094052",
+      "name": "MOBRIDGE MUNI AP",
+      "state": "SD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094052.json"
+    },
+    {
+      "station_id": "USW00094085",
+      "name": "PIERRE 24 S",
+      "state": "SD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094085.json"
+    },
+    {
+      "station_id": "USW00024025",
+      "name": "PIERRE RGNL AP",
+      "state": "SD",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024025.json"
+    },
+    {
+      "station_id": "USW00094039",
+      "name": "PINE RIDGE AP",
+      "state": "SD",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094039.json"
+    },
+    {
+      "station_id": "USW00024090",
+      "name": "RAPID CITY RGNL AP",
+      "state": "SD",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024090.json"
+    },
+    {
+      "station_id": "USW00014946",
+      "name": "WATERTOWN RGNL AP",
+      "state": "SD",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00014946.json"
+    },
+    {
+      "station_id": "USW00013877",
+      "name": "BRISTOL AP",
+      "state": "TN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013877.json"
+    },
+    {
+      "station_id": "USW00053875",
+      "name": "CHATTANOOGA WB CITY",
+      "state": "TN",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053875.json"
+    },
+    {
+      "station_id": "USW00003847",
+      "name": "CROSSVILLE MEM AP",
+      "state": "TN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003847.json"
+    },
+    {
+      "station_id": "USW00093916",
+      "name": "MEMPHIS PO BLDG",
+      "state": "TN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093916.json"
+    },
+    {
+      "station_id": "USW00013897",
+      "name": "NASHVILLE INTL AP",
+      "state": "TN",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013897.json"
+    },
+    {
+      "station_id": "USW00013910",
+      "name": "ABILENE DYESS AFB",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013910.json"
+    },
+    {
+      "station_id": "USW00013962",
+      "name": "ABILENE RGNL AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013962.json"
+    },
+    {
+      "station_id": "USW00003049",
+      "name": "ALPINE CASPARIS AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003049.json"
+    },
+    {
+      "station_id": "USW00012981",
+      "name": "BAY CITY MUNI AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012981.json"
+    },
+    {
+      "station_id": "USW00000209",
+      "name": "BOWIE MUNI AP",
+      "state": "TX",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00000209.json"
+    },
+    {
+      "station_id": "USW00012926",
+      "name": "CORPUS CHRISTI NAS",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012926.json"
+    },
+    {
+      "station_id": "USW00093042",
+      "name": "DALHART FAA AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093042.json"
+    },
+    {
+      "station_id": "USW00003971",
+      "name": "DALLAS REDBIRD AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003971.json"
+    },
+    {
+      "station_id": "USW00022010",
+      "name": "DEL RIO INTL AP",
+      "state": "TX",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00022010.json"
+    },
+    {
+      "station_id": "USW00012987",
+      "name": "EDINBURG 17 NNE",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012987.json"
+    },
+    {
+      "station_id": "USW00023080",
+      "name": "EL PASO",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023080.json"
+    },
+    {
+      "station_id": "USW00023044",
+      "name": "EL PASO INTL AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023044.json"
+    },
+    {
+      "station_id": "USW00003933",
+      "name": "FT HOOD",
+      "state": "TX",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00003933.json"
+    },
+    {
+      "station_id": "USW00093904",
+      "name": "FT WORTH MEACHAM FLD NAAF",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093904.json"
+    },
+    {
+      "station_id": "USW00012944",
+      "name": "GALVESTON",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012944.json"
+    },
+    {
+      "station_id": "USW00012923",
+      "name": "GALVESTON SCHOLES FLD",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012923.json"
+    },
+    {
+      "station_id": "USW00000362",
+      "name": "GATESVILLE MUNI AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00000362.json"
+    },
+    {
+      "station_id": "USW00053977",
+      "name": "GRANBURY MUNI AP",
+      "state": "TX",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053977.json"
+    },
+    {
+      "station_id": "USW00053967",
+      "name": "GRAYSON CO AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053967.json"
+    },
+    {
+      "station_id": "USW00012904",
+      "name": "HARLINGEN RIO GRANDE VLY INTL",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012904.json"
+    },
+    {
+      "station_id": "USW00053972",
+      "name": "HILLSBORO MUNI AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053972.json"
+    },
+    {
+      "station_id": "USW00053903",
+      "name": "HUNTSVILLE MUNI AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053903.json"
+    },
+    {
+      "station_id": "USW00013955",
+      "name": "KILEEN FT HOOD S AAF",
+      "state": "TX",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00013955.json"
+    },
+    {
+      "station_id": "USW00012907",
+      "name": "LAREDO INTL AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012907.json"
+    },
+    {
+      "station_id": "USW00003901",
+      "name": "LONGVIEW E TX RGNL AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003901.json"
+    },
+    {
+      "station_id": "USW00093987",
+      "name": "LUFKIN ANGELINA CO AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00093987.json"
+    },
+    {
+      "station_id": "USW00012959",
+      "name": "MCALLEN MILLER INTL AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012959.json"
+    },
+    {
+      "station_id": "USW00023023",
+      "name": "MIDLAND ODESSA",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023023.json"
+    },
+    {
+      "station_id": "USW00003047",
+      "name": "MONAHANS 6 ENE",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003047.json"
+    },
+    {
+      "station_id": "USW00003054",
+      "name": "MULESHOE 19 S",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00003054.json"
+    },
+    {
+      "station_id": "USW00012974",
+      "name": "ORANGE GROVE",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012974.json"
+    },
+    {
+      "station_id": "USW00093914",
+      "name": "PALESTINE 2 NE",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093914.json"
+    },
+    {
+      "station_id": "USW00022016",
+      "name": "PANTHER JUNCTION 2 N",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00022016.json"
+    },
+    {
+      "station_id": "USW00023906",
+      "name": "PORT ARANSAS 32 NNE",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023906.json"
+    },
+    {
+      "station_id": "USW00012957",
+      "name": "PORT ISABEL CAMERON CO AP",
+      "state": "TX",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00012957.json"
+    },
+    {
+      "station_id": "USW00000471",
+      "name": "PRESIDIO LELY INTL AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00000471.json"
+    },
+    {
+      "station_id": "USW00023021",
+      "name": "REESE AFB",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023021.json"
+    },
+    {
+      "station_id": "USW00093984",
+      "name": "TEMPLE DRAUGHTON MIL",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00093984.json"
+    },
+    {
+      "station_id": "USW00013959",
+      "name": "WACO RGNL AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013959.json"
+    },
+    {
+      "station_id": "USW00012953",
+      "name": "WHARTON RGNL AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00012953.json"
+    },
+    {
+      "station_id": "USW00023040",
+      "name": "WINK FAA AP",
+      "state": "TX",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00023040.json"
+    },
+    {
+      "station_id": "USW00053185",
+      "name": "BEAVER 15 E",
+      "state": "UT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053185.json"
+    },
+    {
+      "station_id": "USW00053004",
+      "name": "BLUFF 32 NW",
+      "state": "UT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00053004.json"
+    },
+    {
+      "station_id": "USW00004138",
+      "name": "BRIGHAM CITY 28 WNW",
+      "state": "UT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004138.json"
+    },
+    {
+      "station_id": "USW00053165",
+      "name": "DELTA 4 NE",
+      "state": "UT",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053165.json"
+    },
+    {
+      "station_id": "USW00024122",
+      "name": "FAIRFIELD CAA AP",
+      "state": "UT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024122.json"
+    },
+    {
+      "station_id": "USW00053014",
+      "name": "MEXICAN HAT 10 NW",
+      "state": "UT",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053014.json"
+    },
+    {
+      "station_id": "USW00023176",
+      "name": "MILFORD MUNI AP",
+      "state": "UT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00023176.json"
+    },
+    {
+      "station_id": "USW00053174",
+      "name": "PRICE 3 E",
+      "state": "UT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053174.json"
+    },
+    {
+      "station_id": "USW00004143",
+      "name": "PROVO 22 E",
+      "state": "UT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004143.json"
+    },
+    {
+      "station_id": "USW00053166",
+      "name": "ST. GEORGE 15 NE",
+      "state": "UT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00053166.json"
+    },
+    {
+      "station_id": "USW00053149",
+      "name": "TORREY 7 E",
+      "state": "UT",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00053149.json"
+    },
+    {
+      "station_id": "USW00094030",
+      "name": "VERNAL MUNI AP",
+      "state": "UT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094030.json"
+    },
+    {
+      "station_id": "USW00013769",
+      "name": "OCEANA NAS",
+      "state": "VA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013769.json"
+    },
+    {
+      "station_id": "USW00013780",
+      "name": "RICHMOND CHIMBORAZO PK",
+      "state": "VA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013780.json"
+    },
+    {
+      "station_id": "USW00013740",
+      "name": "RICHMOND INTL AP",
+      "state": "VA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013740.json"
+    },
+    {
+      "station_id": "USW00013741",
+      "name": "ROANOKE-BLACKSBURG RGNL AP",
+      "state": "VA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00013741.json"
+    },
+    {
+      "station_id": "USW00013742",
+      "name": "URBANNA WB CITY",
+      "state": "VA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013742.json"
+    },
+    {
+      "station_id": "USW00093739",
+      "name": "WALLOPS IS NASA TEST FACILITY",
+      "state": "VA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093739.json"
+    },
+    {
+      "station_id": "USW00093734",
+      "name": "WASHINGTON DULLES WB A",
+      "state": "VA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00093734.json"
+    },
+    {
+      "station_id": "USW00013743",
+      "name": "WASHINGTON REAGAN NATL AP",
+      "state": "VA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00013743.json"
+    },
+    {
+      "station_id": "USW00014742",
+      "name": "BURLINGTON INTL AP",
+      "state": "VT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00014742.json"
+    },
+    {
+      "station_id": "USW00094705",
+      "name": "MONTPELIER AP",
+      "state": "VT",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094705.json"
+    },
+    {
+      "station_id": "USW00054742",
+      "name": "SAINT JOHNSBURY ASOS",
+      "state": "VT",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00054742.json"
+    },
+    {
+      "station_id": "USW00024247",
+      "name": "ARLINGTON NAAS",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024247.json"
+    },
+    {
+      "station_id": "USW00024217",
+      "name": "BELLINGHAM INTL AP",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024217.json"
+    },
+    {
+      "station_id": "USW00094297",
+      "name": "COUPEVILLE NOLF",
+      "state": "WA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094297.json"
+    },
+    {
+      "station_id": "USW00024219",
+      "name": "DALLESPORT AP",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024219.json"
+    },
+    {
+      "station_id": "USW00094119",
+      "name": "DEER PARK AP",
+      "state": "WA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094119.json"
+    },
+    {
+      "station_id": "USW00024147",
+      "name": "LA CROSSE WB CITY",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024147.json"
+    },
+    {
+      "station_id": "USW00094290",
+      "name": "SEATTLE SAND PT WFO",
+      "state": "WA",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094290.json"
+    },
+    {
+      "station_id": "USW00094227",
+      "name": "SHELTON AP",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094227.json"
+    },
+    {
+      "station_id": "USW00094176",
+      "name": "SPOKANE FELTS FLD",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094176.json"
+    },
+    {
+      "station_id": "USW00024238",
+      "name": "STEVENSON WB CITY",
+      "state": "WA",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024238.json"
+    },
+    {
+      "station_id": "USW00094103",
+      "name": "WALLA WALLA WSO CITY",
+      "state": "WA",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094103.json"
+    },
+    {
+      "station_id": "USW00094929",
+      "name": "ASHLAND KENNEDY MEM AP",
+      "state": "WI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00094929.json"
+    },
+    {
+      "station_id": "USW00094994",
+      "name": "BOSCOBEL AP",
+      "state": "WI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094994.json"
+    },
+    {
+      "station_id": "USW00004845",
+      "name": "KENOSHA RGNL AP",
+      "state": "WI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00004845.json"
+    },
+    {
+      "station_id": "USW00094811",
+      "name": "MADISON TRUAX",
+      "state": "WI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094811.json"
+    },
+    {
+      "station_id": "USW00094897",
+      "name": "MANITOWOC",
+      "state": "WI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094897.json"
+    },
+    {
+      "station_id": "USW00054903",
+      "name": "NECEDAH 5 WNW",
+      "state": "WI",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00054903.json"
+    },
+    {
+      "station_id": "USW00004841",
+      "name": "SHEBOYGAN CO MEM AP",
+      "state": "WI",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00004841.json"
+    },
+    {
+      "station_id": "USW00013729",
+      "name": "ELKINS- RANDOLPH CO AP",
+      "state": "WV",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013729.json"
+    },
+    {
+      "station_id": "USW00013867",
+      "name": "PARKERSBURG",
+      "state": "WV",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013867.json"
+    },
+    {
+      "station_id": "USW00003804",
+      "name": "PARKERSBURG AP",
+      "state": "WV",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00003804.json"
+    },
+    {
+      "station_id": "USW00013738",
+      "name": "PETERSBURG WB CITY",
+      "state": "WV",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00013738.json"
+    },
+    {
+      "station_id": "USW00024089",
+      "name": "CASPER-NATRONA CO AP",
+      "state": "WY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024089.json"
+    },
+    {
+      "station_id": "USW00024045",
+      "name": "CODY MUNICIPAL AP",
+      "state": "WY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024045.json"
+    },
+    {
+      "station_id": "USW00094023",
+      "name": "GILLETTE CAMPBELL CO AP",
+      "state": "WY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00094023.json"
+    },
+    {
+      "station_id": "USW00024048",
+      "name": "GREYBULL S BIG HORN CO AP",
+      "state": "WY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024048.json"
+    },
+    {
+      "station_id": "USW00094078",
+      "name": "LANDER 11 SSE",
+      "state": "WY",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094078.json"
+    },
+    {
+      "station_id": "USW00024057",
+      "name": "RAWLINS AP",
+      "state": "WY",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00024057.json"
+    },
+    {
+      "station_id": "USW00024029",
+      "name": "SHERIDAN AP",
+      "state": "WY",
+      "firmware_id": "asos-next-py-2.4",
+      "software_name": "ASOS-Next Data Acquisition",
+      "software_language": "Python 3 / C extensions",
+      "path": "stations/USW00024029.json"
+    },
+    {
+      "station_id": "USW00024031",
+      "name": "SINCLAIR CAA AP",
+      "state": "WY",
+      "firmware_id": "asos-classic-c-5.1",
+      "software_name": "ASOS Classic Acquisition",
+      "software_language": "C99",
+      "path": "stations/USW00024031.json"
+    },
+    {
+      "station_id": "USW00094088",
+      "name": "SUNDANCE 8 NNW",
+      "state": "WY",
+      "firmware_id": "awos-c-cpp-1.8",
+      "software_name": "AWOS-C Site Controller",
+      "software_language": "C++17",
+      "path": "stations/USW00094088.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094817",
+  "name": "PONTIAC OAKLAND CO INTL AP",
+  "state": "MI",
+  "latitude": 42.6631,
+  "longitude": -83.4103,
+  "elevation_m": 295.4,
+  "network": "ASOS",
+  "commissioned": "2009-07-13",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-17",
+    "firmware_cutover_scheduled": false
+  }
+}

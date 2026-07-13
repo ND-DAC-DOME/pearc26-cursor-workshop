@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00023109",
+  "name": "DAVIS MONTHAN AFB",
+  "state": "AZ",
+  "latitude": 32.1667,
+  "longitude": -110.8833,
+  "elevation_m": 808.9,
+  "network": "ASOS",
+  "commissioned": "2009-11-08",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-08",
+    "firmware_cutover_scheduled": false
+  }
+}

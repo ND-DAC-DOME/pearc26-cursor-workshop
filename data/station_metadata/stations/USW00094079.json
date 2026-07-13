@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094079",
+  "name": "WHITMAN 5 ENE",
+  "state": "NE",
+  "latitude": 42.0681,
+  "longitude": -101.445,
+  "elevation_m": 1140.0,
+  "network": "ASOS",
+  "commissioned": "2018-05-13",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-07",
+    "firmware_cutover_scheduled": false
+  }
+}

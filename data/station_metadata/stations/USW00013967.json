@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013967",
+  "name": "OKLAHOMA CY WILL ROGERS WORLD",
+  "state": "OK",
+  "latitude": 35.3883,
+  "longitude": -97.6003,
+  "elevation_m": 389.8,
+  "network": "ASOS",
+  "commissioned": "2008-06-06",
+  "hardware": {
+    "platform": "ASOS Legacy Telemetry Unit shelter",
+    "anemometer": "Vaisala WAA151 cup (pulse output)",
+    "barometer": "Vaisala PTB201A",
+    "hygrometer": "Hygro-M1",
+    "datalogger": "LTU-2000"
+  },
+  "software": {
+    "firmware_id": "asos-ltu-f77-3.2",
+    "name": "ASOS Legacy Telemetry Unit (LTU)",
+    "version": "3.2.1",
+    "language": "FORTRAN 77",
+    "vendor": "NWS / legacy contractor stack"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-24",
+    "firmware_cutover_scheduled": true
+  }
+}

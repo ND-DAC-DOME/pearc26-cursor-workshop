@@ -1,0 +1,146 @@
+{
+  "asos-next-py-2.4": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement",
+    "released": "2021-09-15",
+    "description": "Current-generation ASOS acquisition stack. Sensor values are ingested as IEEE-754 floats, QC'd, and packed into METAR/SPECI without narrow integer truncation in the wind pathway.",
+    "data_types": {
+      "wind_speed": {
+        "storage_type": "float32",
+        "signed": true,
+        "units": "m/s (internal); knots in METAR",
+        "valid_range": [
+          0.0,
+          100.0
+        ],
+        "notes": "Negative speeds rejected by QC before archival."
+      },
+      "wind_direction": {
+        "storage_type": "uint16",
+        "units": "degrees",
+        "valid_range": [
+          0,
+          360
+        ]
+      },
+      "temperature": {
+        "storage_type": "float32",
+        "units": "\u00b0C"
+      }
+    }
+  },
+  "awos-c-cpp-1.8": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program",
+    "released": "2018-04-02",
+    "description": "FAA AWOS-C controller firmware. Wind is stored as a 16-bit unsigned integer in 0.1 m/s counts.",
+    "data_types": {
+      "wind_speed": {
+        "storage_type": "uint16",
+        "signed": false,
+        "units": "0.1 m/s counts",
+        "valid_range": [
+          0,
+          65535
+        ],
+        "notes": "Saturates at max count; does not wrap to negative."
+      },
+      "wind_direction": {
+        "storage_type": "uint16",
+        "units": "degrees",
+        "valid_range": [
+          0,
+          360
+        ]
+      },
+      "temperature": {
+        "storage_type": "int16",
+        "units": "0.1 \u00b0C counts"
+      }
+    }
+  },
+  "asos-classic-c-5.1": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS",
+    "released": "2012-11-30",
+    "description": "Widely deployed mid-life ASOS build. Wind speed uses a signed 16-bit integer in knots.",
+    "data_types": {
+      "wind_speed": {
+        "storage_type": "int16",
+        "signed": true,
+        "units": "knots",
+        "valid_range": [
+          -32768,
+          32767
+        ],
+        "notes": "QC clamps negatives to missing; practical range 0\u2013250 kt."
+      },
+      "wind_direction": {
+        "storage_type": "int16",
+        "units": "degrees",
+        "valid_range": [
+          0,
+          360
+        ]
+      },
+      "temperature": {
+        "storage_type": "int16",
+        "units": "0.1 \u00b0C counts"
+      }
+    }
+  },
+  "asos-ltu-f77-3.2": {
+    "firmware_id": "asos-ltu-f77-3.2",
+    "name": "ASOS Legacy Telemetry Unit (LTU)",
+    "version": "3.2.1",
+    "language": "FORTRAN 77",
+    "vendor": "NWS / legacy contractor stack",
+    "released": "2003-07-18",
+    "last_field_update": "2009-06-01",
+    "description": "Legacy LTU telemetry still operating at a minority of ASOS sites. The acquisition loop and METAR element packer were written in FORTRAN 77 and have not been migrated to the ASOS-Next stack.",
+    "source_notes": "Primary wind packing routine: WNDPAK (WIND PACK) in wndpak.f. Wind speed is read from the anemometer pulse counter, converted to integer mph, and stored in a single-byte INTEGER*1 field before message assembly.",
+    "data_types": {
+      "wind_speed": {
+        "storage_type": "INTEGER*1",
+        "fortran_type": "INTEGER*1",
+        "signed": true,
+        "bit_width": 8,
+        "units": "mph",
+        "valid_range": [
+          -128,
+          127
+        ],
+        "notes": "Signed 8-bit two's-complement field. Design assumption in the original LTU ICD was that reported wind speed would never exceed 127 mph. Values of 128 mph and above overflow and wrap (e.g. 129 \u2192 -127). There is no saturating clamp in WNDPAK."
+      },
+      "wind_direction": {
+        "storage_type": "INTEGER*2",
+        "fortran_type": "INTEGER*2",
+        "signed": true,
+        "units": "degrees",
+        "valid_range": [
+          0,
+          360
+        ]
+      },
+      "temperature": {
+        "storage_type": "INTEGER*2",
+        "fortran_type": "INTEGER*2",
+        "units": "0.1 \u00b0C counts"
+      }
+    },
+    "known_limitations": [
+      "Wind speed packed as signed INTEGER*1 (max +127 before overflow).",
+      "No runtime check for anemometer readings above 127 mph.",
+      "Maintenance bulletins recommend ASOS-Next cutover; several plains sites remain pending."
+    ]
+  }
+}

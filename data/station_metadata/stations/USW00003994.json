@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003994",
+  "name": "SEDALIA MEM AP",
+  "state": "MO",
+  "latitude": 38.7119,
+  "longitude": -93.1747,
+  "elevation_m": 271.6,
+  "network": "ASOS",
+  "commissioned": "2005-10-10",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-12",
+    "firmware_cutover_scheduled": false
+  }
+}

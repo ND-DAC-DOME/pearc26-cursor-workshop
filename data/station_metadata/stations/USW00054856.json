@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00054856",
+  "name": "WOOSTER 3 SSE",
+  "state": "OH",
+  "latitude": 40.7642,
+  "longitude": -81.9103,
+  "elevation_m": 335.9,
+  "network": "ASOS",
+  "commissioned": "2022-05-06",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-16",
+    "firmware_cutover_scheduled": false
+  }
+}

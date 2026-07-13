@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053917",
+  "name": "NEW ORLEANS LAKEFRONT AP",
+  "state": "LA",
+  "latitude": 30.0494,
+  "longitude": -90.0289,
+  "elevation_m": 0.9,
+  "network": "ASOS",
+  "commissioned": "2017-10-01",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-20",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094085",
+  "name": "PIERRE 24 S",
+  "state": "SD",
+  "latitude": 44.0194,
+  "longitude": -100.3531,
+  "elevation_m": 647.4,
+  "network": "ASOS",
+  "commissioned": "2021-05-12",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-12",
+    "firmware_cutover_scheduled": false
+  }
+}

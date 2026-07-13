@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024238",
+  "name": "STEVENSON WB CITY",
+  "state": "WA",
+  "latitude": 45.7167,
+  "longitude": -121.8333,
+  "elevation_m": 96.9,
+  "network": "ASOS",
+  "commissioned": "2021-11-15",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-03",
+    "firmware_cutover_scheduled": false
+  }
+}

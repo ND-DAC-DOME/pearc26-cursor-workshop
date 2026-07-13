@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094261",
+  "name": "PORTLAND-HILLSBORO AP",
+  "state": "OR",
+  "latitude": 45.5475,
+  "longitude": -122.9558,
+  "elevation_m": 59.7,
+  "network": "ASOS",
+  "commissioned": "2012-12-22",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-20",
+    "firmware_cutover_scheduled": false
+  }
+}

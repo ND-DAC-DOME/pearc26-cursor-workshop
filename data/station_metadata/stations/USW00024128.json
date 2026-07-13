@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024128",
+  "name": "WINNEMUCCA AP",
+  "state": "NV",
+  "latitude": 40.9017,
+  "longitude": -117.8081,
+  "elevation_m": 1310.6,
+  "network": "ASOS",
+  "commissioned": "2014-01-07",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-03",
+    "firmware_cutover_scheduled": false
+  }
+}

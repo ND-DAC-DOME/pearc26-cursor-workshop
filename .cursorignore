@@ -3,3 +3,6 @@
 # this file in the editor, not @-mention it during data exploration.
 README.md
 scripts/generate_weather_data.py
+
+# Prefer MCP tools over raw metadata file context
+data/station_metadata/

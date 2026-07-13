@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024136",
+  "name": "COEUR D ALENE AP",
+  "state": "ID",
+  "latitude": 47.7667,
+  "longitude": -116.8167,
+  "elevation_m": 703.2,
+  "network": "ASOS",
+  "commissioned": "2012-11-06",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-16",
+    "firmware_cutover_scheduled": false
+  }
+}

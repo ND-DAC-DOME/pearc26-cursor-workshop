@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00014702",
+  "name": "BEDFORD HANSCOM FLD",
+  "state": "MA",
+  "latitude": 42.4681,
+  "longitude": -71.2947,
+  "elevation_m": 39.0,
+  "network": "ASOS",
+  "commissioned": "2014-07-01",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-11",
+    "firmware_cutover_scheduled": false
+  }
+}

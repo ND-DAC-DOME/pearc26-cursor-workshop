@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00063888",
+  "name": "SPRINGFIELD BECKLEY AP",
+  "state": "OH",
+  "latitude": 39.8403,
+  "longitude": -83.84,
+  "elevation_m": 320.3,
+  "network": "ASOS",
+  "commissioned": "2009-10-18",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-05",
+    "firmware_cutover_scheduled": false
+  }
+}

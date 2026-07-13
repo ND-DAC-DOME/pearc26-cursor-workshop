@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093997",
+  "name": "RUSSELL MUNI AP",
+  "state": "KS",
+  "latitude": 38.8725,
+  "longitude": -98.8092,
+  "elevation_m": 568.1,
+  "network": "ASOS",
+  "commissioned": "2009-01-17",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-19",
+    "firmware_cutover_scheduled": false
+  }
+}

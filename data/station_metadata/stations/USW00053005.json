@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053005",
+  "name": "BUENA VISTA 2 SSE",
+  "state": "CO",
+  "latitude": 38.8111,
+  "longitude": -106.1219,
+  "elevation_m": 2418.0,
+  "network": "ASOS",
+  "commissioned": "2019-08-08",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-04",
+    "firmware_cutover_scheduled": false
+  }
+}

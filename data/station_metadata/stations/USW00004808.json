@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00004808",
+  "name": "CHICAGO AURORA MUNI AP",
+  "state": "IL",
+  "latitude": 41.7714,
+  "longitude": -88.4814,
+  "elevation_m": 213.7,
+  "network": "ASOS",
+  "commissioned": "2013-10-20",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-12",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013729",
+  "name": "ELKINS- RANDOLPH CO AP",
+  "state": "WV",
+  "latitude": 38.89,
+  "longitude": -79.8556,
+  "elevation_m": 595.9,
+  "network": "ASOS",
+  "commissioned": "2018-02-27",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-10",
+    "firmware_cutover_scheduled": false
+  }
+}

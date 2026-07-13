@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093916",
+  "name": "MEMPHIS PO BLDG",
+  "state": "TN",
+  "latitude": 35.15,
+  "longitude": -90.05,
+  "elevation_m": 117.0,
+  "network": "ASOS",
+  "commissioned": "2010-03-03",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-24",
+    "firmware_cutover_scheduled": false
+  }
+}

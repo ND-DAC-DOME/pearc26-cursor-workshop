@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00004110",
+  "name": "JEROME CO AP",
+  "state": "ID",
+  "latitude": 42.7272,
+  "longitude": -114.4547,
+  "elevation_m": 1226.5,
+  "network": "ASOS",
+  "commissioned": "2015-08-16",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-17",
+    "firmware_cutover_scheduled": false
+  }
+}

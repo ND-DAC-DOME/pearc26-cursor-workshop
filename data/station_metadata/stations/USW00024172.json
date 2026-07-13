@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024172",
+  "name": "LOVELOCK DERBY FLD AP",
+  "state": "NV",
+  "latitude": 40.0683,
+  "longitude": -118.5703,
+  "elevation_m": 1189.6,
+  "network": "ASOS",
+  "commissioned": "2013-05-19",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-10",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053873",
+  "name": "CARTERSVILLE AP",
+  "state": "GA",
+  "latitude": 34.1158,
+  "longitude": -84.8508,
+  "elevation_m": 230.1,
+  "network": "ASOS",
+  "commissioned": "2007-10-06",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-25",
+    "firmware_cutover_scheduled": false
+  }
+}

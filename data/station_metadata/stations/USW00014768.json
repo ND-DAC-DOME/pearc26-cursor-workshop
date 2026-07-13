@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00014768",
+  "name": "ROCHESTER GTR INTL",
+  "state": "NY",
+  "latitude": 43.1172,
+  "longitude": -77.6753,
+  "elevation_m": 164.6,
+  "network": "ASOS",
+  "commissioned": "2012-11-04",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-18",
+    "firmware_cutover_scheduled": false
+  }
+}

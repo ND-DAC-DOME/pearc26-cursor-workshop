@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013969",
+  "name": "PONCA CITY MUNI AP",
+  "state": "OK",
+  "latitude": 36.7369,
+  "longitude": -97.1022,
+  "elevation_m": 304.2,
+  "network": "ASOS",
+  "commissioned": "1994-12-19",
+  "hardware": {
+    "platform": "ASOS Legacy Telemetry Unit shelter",
+    "anemometer": "Vaisala WAA151 cup (pulse output)",
+    "barometer": "Vaisala PTB201A",
+    "hygrometer": "Hygro-M1",
+    "datalogger": "LTU-2000"
+  },
+  "software": {
+    "firmware_id": "asos-ltu-f77-3.2",
+    "name": "ASOS Legacy Telemetry Unit (LTU)",
+    "version": "3.2.1",
+    "language": "FORTRAN 77",
+    "vendor": "NWS / legacy contractor stack"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-21",
+    "firmware_cutover_scheduled": true
+  }
+}

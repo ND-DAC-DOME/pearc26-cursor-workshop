@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003035",
+  "name": "ARTESIA MUNI AP",
+  "state": "NM",
+  "latitude": 32.8525,
+  "longitude": -104.4675,
+  "elevation_m": 1079.3,
+  "network": "ASOS",
+  "commissioned": "2018-07-11",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-24",
+    "firmware_cutover_scheduled": false
+  }
+}

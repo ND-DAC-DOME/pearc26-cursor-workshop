@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003804",
+  "name": "PARKERSBURG AP",
+  "state": "WV",
+  "latitude": 39.3394,
+  "longitude": -81.4439,
+  "elevation_m": 245.4,
+  "network": "ASOS",
+  "commissioned": "2006-08-24",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-08",
+    "firmware_cutover_scheduled": false
+  }
+}

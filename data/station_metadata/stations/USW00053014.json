@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053014",
+  "name": "MEXICAN HAT 10 NW",
+  "state": "UT",
+  "latitude": 37.2508,
+  "longitude": -109.9878,
+  "elevation_m": 1939.7,
+  "network": "ASOS",
+  "commissioned": "2020-09-07",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-22",
+    "firmware_cutover_scheduled": false
+  }
+}

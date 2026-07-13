@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00022010",
+  "name": "DEL RIO INTL AP",
+  "state": "TX",
+  "latitude": 29.3783,
+  "longitude": -100.9269,
+  "elevation_m": 305.7,
+  "network": "ASOS",
+  "commissioned": "2009-05-05",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-02",
+    "firmware_cutover_scheduled": false
+  }
+}

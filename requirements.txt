@@ -3,3 +3,4 @@ numpy>=1.24
 matplotlib>=3.7
 cartopy>=0.22
 certifi>=2024.0.0
+mcp>=1.27,<2

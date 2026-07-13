@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093145",
+  "name": "YUMA WB CITY",
+  "state": "AZ",
+  "latitude": 32.7333,
+  "longitude": -114.6167,
+  "elevation_m": 73.2,
+  "network": "ASOS",
+  "commissioned": "2006-10-02",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-14",
+    "firmware_cutover_scheduled": false
+  }
+}

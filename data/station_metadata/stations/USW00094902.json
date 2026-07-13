@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094902",
+  "name": "BROOKINGS",
+  "state": "SD",
+  "latitude": 44.3,
+  "longitude": -96.8,
+  "elevation_m": 502.3,
+  "network": "ASOS",
+  "commissioned": "2018-11-02",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-26",
+    "firmware_cutover_scheduled": false
+  }
+}

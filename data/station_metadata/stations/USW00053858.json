@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053858",
+  "name": "PASCAGOULA LOTT INTL AP",
+  "state": "MS",
+  "latitude": 30.4631,
+  "longitude": -88.5317,
+  "elevation_m": 2.7,
+  "network": "ASOS",
+  "commissioned": "2014-06-02",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-10",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013897",
+  "name": "NASHVILLE INTL AP",
+  "state": "TN",
+  "latitude": 36.1106,
+  "longitude": -86.6881,
+  "elevation_m": 178.9,
+  "network": "ASOS",
+  "commissioned": "2015-10-04",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-17",
+    "firmware_cutover_scheduled": false
+  }
+}

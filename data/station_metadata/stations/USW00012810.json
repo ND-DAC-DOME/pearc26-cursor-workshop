@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00012810",
+  "name": "MACDILL AFB",
+  "state": "FL",
+  "latitude": 27.85,
+  "longitude": -82.5167,
+  "elevation_m": 7.9,
+  "network": "ASOS",
+  "commissioned": "2014-06-07",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-04",
+    "firmware_cutover_scheduled": false
+  }
+}

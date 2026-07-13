@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094963",
+  "name": "MINNEAPOLIS FLYING CLOUD AP",
+  "state": "MN",
+  "latitude": 44.8322,
+  "longitude": -93.4706,
+  "elevation_m": 275.8,
+  "network": "ASOS",
+  "commissioned": "2022-05-15",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-17",
+    "firmware_cutover_scheduled": false
+  }
+}

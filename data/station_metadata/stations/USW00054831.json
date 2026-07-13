@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00054831",
+  "name": "BLOOMINGTON NORMAL AP",
+  "state": "IL",
+  "latitude": 40.4833,
+  "longitude": -88.95,
+  "elevation_m": 263.7,
+  "network": "ASOS",
+  "commissioned": "2020-01-03",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-16",
+    "firmware_cutover_scheduled": false
+  }
+}

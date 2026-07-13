@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093733",
+  "name": "FT MEADE TPTN AAF",
+  "state": "MD",
+  "latitude": 39.0833,
+  "longitude": -76.7667,
+  "elevation_m": 46.0,
+  "network": "ASOS",
+  "commissioned": "2021-12-26",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-14",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094281",
+  "name": "AURORA STATE AP",
+  "state": "OR",
+  "latitude": 45.2467,
+  "longitude": -122.7708,
+  "elevation_m": 59.7,
+  "network": "ASOS",
+  "commissioned": "2007-06-17",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-04",
+    "firmware_cutover_scheduled": false
+  }
+}

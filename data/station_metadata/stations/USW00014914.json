@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00014914",
+  "name": "FARGO HECTOR INTL AP",
+  "state": "ND",
+  "latitude": 46.9242,
+  "longitude": -96.812,
+  "elevation_m": 272.8,
+  "network": "ASOS",
+  "commissioned": "2016-08-22",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-06",
+    "firmware_cutover_scheduled": false
+  }
+}

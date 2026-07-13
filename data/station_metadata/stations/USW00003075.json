@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003075",
+  "name": "DULCE 1 NW",
+  "state": "NM",
+  "latitude": 36.9353,
+  "longitude": -107.0003,
+  "elevation_m": 2074.5,
+  "network": "ASOS",
+  "commissioned": "2020-05-22",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-11",
+    "firmware_cutover_scheduled": false
+  }
+}

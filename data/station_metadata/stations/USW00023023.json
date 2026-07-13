@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00023023",
+  "name": "MIDLAND ODESSA",
+  "state": "TX",
+  "latitude": 31.9433,
+  "longitude": -102.1892,
+  "elevation_m": 902.8,
+  "network": "ASOS",
+  "commissioned": "2015-03-17",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-10",
+    "firmware_cutover_scheduled": false
+  }
+}

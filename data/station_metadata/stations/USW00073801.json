@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00073801",
+  "name": "NORTHPORT 2 S",
+  "state": "AL",
+  "latitude": 33.2125,
+  "longitude": -87.5914,
+  "elevation_m": 45.7,
+  "network": "ASOS",
+  "commissioned": "2019-05-13",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-02",
+    "firmware_cutover_scheduled": false
+  }
+}

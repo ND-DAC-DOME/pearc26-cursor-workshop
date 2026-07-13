@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003998",
+  "name": "PARSONS TRI CITY AP",
+  "state": "KS",
+  "latitude": 37.3281,
+  "longitude": -95.5044,
+  "elevation_m": 264.0,
+  "network": "ASOS",
+  "commissioned": "2022-05-05",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-10",
+    "firmware_cutover_scheduled": false
+  }
+}

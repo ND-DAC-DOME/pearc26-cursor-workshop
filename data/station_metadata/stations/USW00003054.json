@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003054",
+  "name": "MULESHOE 19 S",
+  "state": "TX",
+  "latitude": 33.9558,
+  "longitude": -102.7739,
+  "elevation_m": 1140.6,
+  "network": "ASOS",
+  "commissioned": "2018-04-16",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-03",
+    "firmware_cutover_scheduled": false
+  }
+}

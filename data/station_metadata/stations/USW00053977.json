@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053977",
+  "name": "GRANBURY MUNI AP",
+  "state": "TX",
+  "latitude": 32.4444,
+  "longitude": -97.8169,
+  "elevation_m": 237.1,
+  "network": "ASOS",
+  "commissioned": "2016-06-15",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-01",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093226",
+  "name": "SAN SIMEON PT PIEDRAS BLANCAS",
+  "state": "CA",
+  "latitude": 35.6656,
+  "longitude": -121.2847,
+  "elevation_m": 18.0,
+  "network": "ASOS",
+  "commissioned": "2020-02-20",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-04",
+    "firmware_cutover_scheduled": false
+  }
+}

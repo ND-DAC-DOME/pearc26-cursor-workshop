@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094824",
+  "name": "KINROSS AFB",
+  "state": "MI",
+  "latitude": 46.25,
+  "longitude": -84.4667,
+  "elevation_m": 262.1,
+  "network": "ASOS",
+  "commissioned": "2008-02-03",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-17",
+    "firmware_cutover_scheduled": false
+  }
+}

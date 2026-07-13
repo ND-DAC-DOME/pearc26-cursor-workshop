@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00014610",
+  "name": "MILLINOCKET MUNI AP",
+  "state": "ME",
+  "latitude": 45.6478,
+  "longitude": -68.6925,
+  "elevation_m": 122.2,
+  "network": "ASOS",
+  "commissioned": "2006-04-26",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-14",
+    "firmware_cutover_scheduled": false
+  }
+}

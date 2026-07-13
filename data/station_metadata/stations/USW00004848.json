@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00004848",
+  "name": "TOLEDO METCALF FLD",
+  "state": "OH",
+  "latitude": 41.5633,
+  "longitude": -83.4767,
+  "elevation_m": 189.0,
+  "network": "ASOS",
+  "commissioned": "2006-06-23",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-23",
+    "firmware_cutover_scheduled": false
+  }
+}

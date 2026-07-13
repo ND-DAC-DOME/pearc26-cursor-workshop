@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003933",
+  "name": "FT HOOD",
+  "state": "TX",
+  "latitude": 31.1333,
+  "longitude": -97.7167,
+  "elevation_m": 281.6,
+  "network": "ASOS",
+  "commissioned": "2011-06-07",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-12",
+    "firmware_cutover_scheduled": false
+  }
+}

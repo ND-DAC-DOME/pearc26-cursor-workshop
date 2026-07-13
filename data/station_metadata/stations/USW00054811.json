@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00054811",
+  "name": "SHABBONA 5 NNE",
+  "state": "IL",
+  "latitude": 41.8431,
+  "longitude": -88.8514,
+  "elevation_m": 262.4,
+  "network": "ASOS",
+  "commissioned": "2022-12-26",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-06",
+    "firmware_cutover_scheduled": false
+  }
+}

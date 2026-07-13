@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013738",
+  "name": "PETERSBURG WB CITY",
+  "state": "WV",
+  "latitude": 39.0,
+  "longitude": -79.1167,
+  "elevation_m": 307.8,
+  "network": "ASOS",
+  "commissioned": "2016-05-17",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-13",
+    "firmware_cutover_scheduled": false
+  }
+}

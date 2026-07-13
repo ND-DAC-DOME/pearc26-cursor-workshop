@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003932",
+  "name": "CLINTON-SHERMAN AP",
+  "state": "OK",
+  "latitude": 35.3567,
+  "longitude": -99.2042,
+  "elevation_m": 584.6,
+  "network": "ASOS",
+  "commissioned": "2006-05-10",
+  "hardware": {
+    "platform": "ASOS Legacy Telemetry Unit shelter",
+    "anemometer": "Vaisala WAA151 cup (pulse output)",
+    "barometer": "Vaisala PTB201A",
+    "hygrometer": "Hygro-M1",
+    "datalogger": "LTU-2000"
+  },
+  "software": {
+    "firmware_id": "asos-ltu-f77-3.2",
+    "name": "ASOS Legacy Telemetry Unit (LTU)",
+    "version": "3.2.1",
+    "language": "FORTRAN 77",
+    "vendor": "NWS / legacy contractor stack"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-26",
+    "firmware_cutover_scheduled": true
+  }
+}

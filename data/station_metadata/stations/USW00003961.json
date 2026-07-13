@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003961",
+  "name": "NATCHEZ ADAM CO AP",
+  "state": "MS",
+  "latitude": 31.6167,
+  "longitude": -91.2833,
+  "elevation_m": 82.9,
+  "network": "ASOS",
+  "commissioned": "2016-05-17",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-10",
+    "firmware_cutover_scheduled": false
+  }
+}

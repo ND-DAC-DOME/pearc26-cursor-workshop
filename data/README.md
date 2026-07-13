@@ -45,3 +45,7 @@ python scripts/generate_weather_data.py
 | `wind_direction_deg` | Meteorological direction wind comes **from** (0–360°) |
 | `dew_point_c` | °C (consistent with T and RH) |
 | `solar_radiation_wm2` | W/m² (~0 at night) |
+
+## Station hardware/software metadata
+
+Per-station equipment and firmware docs live under `station_metadata/` and are queried through the **station-metadata** MCP server (`scripts/station_metadata_mcp.py`). See the Module 2 section of the root README for connection and discovery steps.

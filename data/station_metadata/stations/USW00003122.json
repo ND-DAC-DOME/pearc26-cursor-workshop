@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003122",
+  "name": "TORRANCE AP",
+  "state": "CA",
+  "latitude": 33.8017,
+  "longitude": -118.3411,
+  "elevation_m": 27.4,
+  "network": "ASOS",
+  "commissioned": "2023-12-14",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-17",
+    "firmware_cutover_scheduled": false
+  }
+}

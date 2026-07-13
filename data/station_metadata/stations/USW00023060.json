@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00023060",
+  "name": "EL MORRO CAA AP",
+  "state": "NM",
+  "latitude": 35.0167,
+  "longitude": -108.4,
+  "elevation_m": 2171.1,
+  "network": "ASOS",
+  "commissioned": "2022-04-23",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-27",
+    "firmware_cutover_scheduled": false
+  }
+}

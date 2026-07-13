@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094040",
+  "name": "MCCOOK MUNI AP",
+  "state": "NE",
+  "latitude": 40.2039,
+  "longitude": -100.5903,
+  "elevation_m": 779.4,
+  "network": "ASOS",
+  "commissioned": "2013-07-21",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-05",
+    "firmware_cutover_scheduled": false
+  }
+}

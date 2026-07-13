@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013941",
+  "name": "LAKE CHARLES CHENAULT",
+  "state": "LA",
+  "latitude": 30.2167,
+  "longitude": -93.15,
+  "elevation_m": 4.9,
+  "network": "ASOS",
+  "commissioned": "2020-03-15",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-22",
+    "firmware_cutover_scheduled": false
+  }
+}

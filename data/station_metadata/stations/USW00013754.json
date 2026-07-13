@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013754",
+  "name": "CHERRY POINT MCAS",
+  "state": "NC",
+  "latitude": 34.9,
+  "longitude": -76.8833,
+  "elevation_m": 8.8,
+  "network": "ASOS",
+  "commissioned": "2021-07-15",
+  "hardware": {
+    "platform": "ASOS standard shelter",
+    "anemometer": "Vaisala WAA151 cup",
+    "barometer": "Vaisala PTB220",
+    "hygrometer": "Vaisala HMP45",
+    "datalogger": "ASOS ACU"
+  },
+  "software": {
+    "firmware_id": "asos-classic-c-5.1",
+    "name": "ASOS Classic Acquisition",
+    "version": "5.1.2",
+    "language": "C99",
+    "vendor": "NWS ASOS"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-07",
+    "firmware_cutover_scheduled": false
+  }
+}

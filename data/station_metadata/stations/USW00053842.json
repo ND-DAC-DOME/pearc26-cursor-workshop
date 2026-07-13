@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00053842",
+  "name": "INDIANAPOLIS EAGLE CREEK AP",
+  "state": "IN",
+  "latitude": 39.8247,
+  "longitude": -86.2958,
+  "elevation_m": 247.5,
+  "network": "ASOS",
+  "commissioned": "2010-03-23",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-24",
+    "firmware_cutover_scheduled": false
+  }
+}

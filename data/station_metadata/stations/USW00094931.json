@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094931",
+  "name": "HIBBING CHISHOLM HIBBING AP",
+  "state": "MN",
+  "latitude": 47.3803,
+  "longitude": -92.8325,
+  "elevation_m": 408.1,
+  "network": "ASOS",
+  "commissioned": "2015-08-11",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-16",
+    "firmware_cutover_scheduled": false
+  }
+}

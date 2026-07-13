@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00092806",
+  "name": "ST PETERSBURG ALBERT WHITTED A",
+  "state": "FL",
+  "latitude": 27.7683,
+  "longitude": -82.6256,
+  "elevation_m": 1.2,
+  "network": "ASOS",
+  "commissioned": "2013-06-08",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-13",
+    "firmware_cutover_scheduled": false
+  }
+}

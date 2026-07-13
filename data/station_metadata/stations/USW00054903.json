@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00054903",
+  "name": "NECEDAH 5 WNW",
+  "state": "WI",
+  "latitude": 44.0603,
+  "longitude": -90.1736,
+  "elevation_m": 284.4,
+  "network": "ASOS",
+  "commissioned": "2009-04-19",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-15",
+    "firmware_cutover_scheduled": false
+  }
+}

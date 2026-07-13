@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00012889",
+  "name": "PINECASTLE NF",
+  "state": "FL",
+  "latitude": 29.1431,
+  "longitude": -81.6328,
+  "elevation_m": 28.0,
+  "network": "ASOS",
+  "commissioned": "2022-08-13",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-11",
+    "firmware_cutover_scheduled": false
+  }
+}

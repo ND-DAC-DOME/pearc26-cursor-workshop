@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00023803",
+  "name": "HOLLY SPRINGS 4 N",
+  "state": "MS",
+  "latitude": 34.8222,
+  "longitude": -89.4347,
+  "elevation_m": 147.5,
+  "network": "ASOS",
+  "commissioned": "2005-12-11",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-20",
+    "firmware_cutover_scheduled": false
+  }
+}

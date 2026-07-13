@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00012849",
+  "name": "FT LAUDERDALE INTL AP",
+  "state": "FL",
+  "latitude": 26.0789,
+  "longitude": -80.1622,
+  "elevation_m": 0.9,
+  "network": "ASOS",
+  "commissioned": "2017-07-15",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-18",
+    "firmware_cutover_scheduled": false
+  }
+}

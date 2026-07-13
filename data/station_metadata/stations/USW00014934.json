@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00014934",
+  "name": "DUBUQUE RIVER",
+  "state": "IA",
+  "latitude": 42.4,
+  "longitude": -90.7,
+  "elevation_m": 177.1,
+  "network": "ASOS",
+  "commissioned": "2006-08-01",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-01-06",
+    "firmware_cutover_scheduled": false
+  }
+}

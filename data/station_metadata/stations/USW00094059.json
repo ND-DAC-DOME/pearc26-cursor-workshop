@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00094059",
+  "name": "WOLF POINT 34 NE",
+  "state": "MT",
+  "latitude": 48.4886,
+  "longitude": -105.2097,
+  "elevation_m": 805.6,
+  "network": "ASOS",
+  "commissioned": "2018-02-11",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-05",
+    "firmware_cutover_scheduled": false
+  }
+}

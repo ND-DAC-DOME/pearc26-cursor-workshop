@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003063",
+  "name": "LA JUNTA 17 WSW",
+  "state": "CO",
+  "latitude": 37.8639,
+  "longitude": -103.8225,
+  "elevation_m": 1336.9,
+  "network": "ASOS",
+  "commissioned": "2014-09-22",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-23",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00024106",
+  "name": "MTN HOME AFB",
+  "state": "ID",
+  "latitude": 43.05,
+  "longitude": -115.8667,
+  "elevation_m": 913.2,
+  "network": "ASOS",
+  "commissioned": "2015-05-26",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-22",
+    "firmware_cutover_scheduled": false
+  }
+}

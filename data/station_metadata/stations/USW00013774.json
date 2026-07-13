@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00013774",
+  "name": "WEEKSVILLE NAF",
+  "state": "NC",
+  "latitude": 36.25,
+  "longitude": -76.1333,
+  "elevation_m": 7.0,
+  "network": "ASOS",
+  "commissioned": "2007-10-23",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-04-11",
+    "firmware_cutover_scheduled": false
+  }
+}

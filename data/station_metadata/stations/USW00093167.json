@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00093167",
+  "name": "KINGMAN AP",
+  "state": "AZ",
+  "latitude": 35.2575,
+  "longitude": -113.9342,
+  "elevation_m": 1043.3,
+  "network": "ASOS",
+  "commissioned": "2011-12-10",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-14",
+    "firmware_cutover_scheduled": false
+  }
+}

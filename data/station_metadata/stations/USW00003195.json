@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003195",
+  "name": "GRAND CANYON NP AP",
+  "state": "AZ",
+  "latitude": 35.9458,
+  "longitude": -112.1553,
+  "elevation_m": 1993.4,
+  "network": "ASOS",
+  "commissioned": "2014-06-05",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-02-07",
+    "firmware_cutover_scheduled": false
+  }
+}

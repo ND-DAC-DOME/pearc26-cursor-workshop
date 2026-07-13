@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00004846",
+  "name": "VALPARAISO PORTER CO MUNI AP",
+  "state": "IN",
+  "latitude": 41.4536,
+  "longitude": -86.9981,
+  "elevation_m": 234.1,
+  "network": "ASOS",
+  "commissioned": "2018-05-21",
+  "hardware": {
+    "platform": "AWOS-C cabinet",
+    "anemometer": "Climatronics F460",
+    "barometer": "Setra 270",
+    "hygrometer": "Rotronic HC2",
+    "datalogger": "AWOS-C site controller"
+  },
+  "software": {
+    "firmware_id": "awos-c-cpp-1.8",
+    "name": "AWOS-C Site Controller",
+    "version": "1.8.0",
+    "language": "C++17",
+    "vendor": "FAA AWOS Program"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-24",
+    "firmware_cutover_scheduled": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00003049",
+  "name": "ALPINE CASPARIS AP",
+  "state": "TX",
+  "latitude": 30.3833,
+  "longitude": -103.6833,
+  "elevation_m": 1375.6,
+  "network": "ASOS",
+  "commissioned": "2023-10-14",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-03-13",
+    "firmware_cutover_scheduled": false
+  }
+}

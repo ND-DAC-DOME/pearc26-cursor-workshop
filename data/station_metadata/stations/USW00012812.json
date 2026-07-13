@@ -1,0 +1,28 @@
+{
+  "station_id": "USW00012812",
+  "name": "PUNTA GORDA CHARLOTTE CO AP",
+  "state": "FL",
+  "latitude": 26.9183,
+  "longitude": -81.9939,
+  "elevation_m": 6.1,
+  "network": "ASOS",
+  "commissioned": "2005-09-23",
+  "hardware": {
+    "platform": "ASOS-Next shelter",
+    "anemometer": "Vaisala WMT700 ultrasonic",
+    "barometer": "Vaisala PTB330",
+    "hygrometer": "Vaisala HMP155",
+    "datalogger": "ASOS-Next DAQ"
+  },
+  "software": {
+    "firmware_id": "asos-next-py-2.4",
+    "name": "ASOS-Next Data Acquisition",
+    "version": "2.4.3",
+    "language": "Python 3 / C extensions",
+    "vendor": "NWS ASOS Product Improvement"
+  },
+  "maintenance": {
+    "last_inspection": "2025-05-12",
+    "firmware_cutover_scheduled": false
+  }
+}
