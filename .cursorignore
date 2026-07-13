@@ -1,0 +1,4 @@
+# Keep workshop framing out of Ask/Agent codebase context so Module 2
+# investigations are not spoiled by README clues. Participants should read
+# this file in the editor, not @-mention it during data exploration.
+README.md

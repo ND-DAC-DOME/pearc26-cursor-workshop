@@ -54,15 +54,17 @@ On the evening of **Friday, 13 June 2025**, a strong storm cell moved through ce
 python scripts/plot_wind_map.py --timestamp 2025-06-13T22:00:00Z
 ```
 
-Something in the hourly data for this event does not look right. Use Cursor to dig into why.
+Study the map, then use Cursor to inspect the underlying hourly readings.
 
 ### Explore the hourly CSV
 
-**1. `@File` the dataset**
+**Important:** Read these instructions yourself in the editor. During Ask/Agent investigation, attach **only** the data files you want analyzed (e.g. the CSV below). Do **not** `@README.md` — it will leak the exercise framing into the model’s context.
 
-In chat, attach the hourly readings with `@File` (or `@data/weather_hourly.csv`) and ask Cursor to inspect them — for example:
+**1. Ask mode + `@File` the dataset**
 
-> `@data/weather_hourly.csv` Something looks off in this weather data around the Oklahoma storm on 2025-06-13. Can you find any values that don't make physical sense?
+Switch the chat to **Ask** mode, attach **only** `@data/weather_hourly.csv`, and run an open-ended quality check — for example:
+
+> `@data/weather_hourly.csv` Do a quality check of this weather dataset. Flag any physically impossible or suspicious values.
 
 Try a few follow-ups if the first pass is too broad (e.g. focus on wind, or on a specific evening window).
 
