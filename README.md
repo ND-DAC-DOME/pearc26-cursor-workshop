@@ -78,29 +78,25 @@ Have Cursor summarize ranges, count impossible values, or walk the hours around 
 
 ### Station metadata MCP (root-cause context)
 
-Each station has hardware/software metadata (platform, sensors, firmware language and typed fields). That catalog is **not** meant to be browsed as raw files during the exercise — query it through a local MCP server so Agent/Ask can pull details on demand.
+Each station has hardware/software metadata (platform, sensors, firmware language and typed fields). That catalog is **not** meant to be browsed as raw files during the exercise — query it through a local MCP server so the agent can pull details on demand.
 
 #### Start / connect the MCP server
 
-1. Ensure the venv is set up (Prerequisites) and metadata exists:
+Switch back to **Agent** mode for this step (Ask mode cannot call MCP tools).
 
-```bash
-python scripts/generate_station_metadata.py   # already committed; re-run only if regenerating
-```
-
-2. This repo ships a project MCP config at [`.cursor/mcp.json`](.cursor/mcp.json) that launches:
+1. This repo ships a project MCP config at [`.cursor/mcp.json`](.cursor/mcp.json) that launches:
 
 ```text
 .venv/bin/python scripts/station_metadata_mcp.py
 ```
 
-3. In Cursor: **Settings → MCP**. Confirm **station-metadata** appears and shows a green/connected status. If needed, click refresh/restart after creating the venv.
+2. In Cursor: **Settings → MCP**. Confirm **station-metadata** appears and shows a green/connected status. If needed, click refresh/restart after creating the venv.
 
-4. Open a new Agent or Ask chat and verify tools such as `get_station`, `get_firmware`, `list_stations`, `search_stations`, and `list_firmware` are available.
+3. In an **Agent** chat, verify tools such as `get_station`, `get_firmware`, `list_stations`, `search_stations`, and `list_firmware` are available.
 
 #### Discovery path
 
-After you have a suspicious `station_id` from the hourly CSV:
+After you have a suspicious `station_id` from the hourly CSV (still in **Agent** mode):
 
 1. Ask the agent to look up that station **via the station-metadata MCP** (not by opening JSON files in the editor).
 2. Follow the station’s `firmware_id` with `get_firmware`.
